@@ -4,27 +4,41 @@
     <title>AAAS：科学机器人技术：目录</title>
     <link>https://www.science.org/loi/scirobotics?af=R</link>
     <description>科学机器人技术目录。来自最新和印刷问题的文章清单。</description>
-    <lastBuildDate>Thu, 10 Jul 2025 03:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 04:01:51 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[均衡访问：机器人技术和人工智能如何在全球范围内改变手术护理]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt6471?af=R</link>
+      <description><![CDATA[科学机器人技术，第10卷，第104期，2025年7月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt6471?af=R</guid>
+      <pubDate>Thu, 17 Jul 2025 04:01:49 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[AI手中的医疗针头：朝着自主机器人导航前进]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt1874?af=R</link>
       <description><![CDATA[科学机器人技术，第10卷，第104期，2025年7月。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt1874?af=R</guid>
-      <pubDate>Thu, 10 Jul 2025 03:49:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SRT-H：通过语言模仿学习的自主手术的分层框架]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt5254?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第104期，2025年7月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt5254?af=R</guid>
-      <pubDate>Thu, 10 Jul 2025 03:49:50 GMT</pubDate>
+      <pubDate>Thu, 17 Jul 2025 04:01:48 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[机器人现在将看到您：基础模型是自动机器人手术的前进道路]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt0684?af=R</link>
       <description><![CDATA[科学机器人技术，第10卷，第104期，2025年7月。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt0684?af=R</guid>
-      <pubDate>Thu, 10 Jul 2025 03:49:50 GMT</pubDate>
+      <pubDate>Thu, 17 Jul 2025 04:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腹腔镜机器人辅助手术中广义任务自治的手术具体智能]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt3093?af=R</link>
+      <description><![CDATA[科学机器人技术，第10卷，第104期，2025年7月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt3093?af=R</guid>
+      <pubDate>Thu, 17 Jul 2025 04:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SRT-H：通过语言模仿学习的自主手术的分层框架]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt5254?af=R</link>
+      <description><![CDATA[科学机器人技术，第10卷，第104期，2025年7月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt5254?af=R</guid>
+      <pubDate>Thu, 17 Jul 2025 04:01:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
