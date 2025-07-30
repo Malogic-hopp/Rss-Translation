@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>AAAS：科学信号：目录</title>
     <link>https://www.science.org/loi/signaling?af=R</link>
     <description>科学信号的目录。来自最新和印刷问题的文章清单。</description>
-    <lastBuildDate>Wed, 23 Jul 2025 03:55:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 04:09:28 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[黄铁病毒的鞘磷脂盾]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scisignal.aea6766?af=R</link>
-      <description><![CDATA[科学信号，第18卷，第896期，2025年7月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.aea6766?af=R</guid>
-      <pubDate>Wed, 23 Jul 2025 03:55:23 GMT</pubDate>
+      <title><![CDATA[USP5去泛素化并稳定FcεRIγ，以增强IgE诱导的肥大细胞激活和过敏性炎症]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scisignal.adr3411?af=R</link>
+      <description><![CDATA[科学信号，第18卷，第897期，2025年7月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adr3411?af=R</guid>
+      <pubDate>Wed, 30 Jul 2025 04:09:25 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于记者的筛选将RAS-RAF突变确定为对大肠癌中活跃状态RAS抑制剂的抗性的驱动力]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scisignal.adr3738?af=R</link>
-      <description><![CDATA[科学信号，第18卷，第896期，2025年7月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adr3738?af=R</guid>
-      <pubDate>Wed, 23 Jul 2025 03:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[心肌细胞中PTP1B的缺失改变了心脏代谢信号传导，以防止高脂饮食诱导的心肌病]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scisignal.adp6006?af=R</link>
-      <description><![CDATA[科学信号，第18卷，第896期，2025年7月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adp6006?af=R</guid>
-      <pubDate>Wed, 23 Jul 2025 03:55:21 GMT</pubDate>
+      <title><![CDATA[蛋白质组学分析确定致癌KRAS信号传导的靶，途径和细胞后果]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scisignal.adt6552?af=R</link>
+      <description><![CDATA[科学信号，第18卷，第897期，2025年7月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adt6552?af=R</guid>
+      <pubDate>Wed, 30 Jul 2025 04:09:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
