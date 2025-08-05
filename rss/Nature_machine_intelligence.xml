@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence将在机器学习，机器人技术和AI中发表高质量的原始研究和评论。该期刊还将探索并讨论这些领域开始对其他科学学科以及社会和工业许多方面产生的重大影响。机器智能可以在科学发现，医疗保健，医疗诊断以及安全可持续的城市，运输和农业等领域中增强人类能力和知识。同时，出现了有关道德，社会和法律问题的许多重要问题，特别是考虑到发展的快速发展，自然机器智能将提供一个平台来讨论这些广泛的含义（鼓励跨学科对话），并提供评论，新闻特征，新闻和amp;查看文章和通信。</description>
-    <lastBuildDate>Fri, 25 Jul 2025 03:54:20 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[将抓握和旋转与球形机器人手工机构结合]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01039-1</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年7月21日；  doi：10.1038/s42256-025-01039-1       为非结构性人类环境开发机器人手是一项重大挑战。出现了一种机器人手，将握把和腕样旋转结合在一种机制中，以提高效率和通用的物体操纵。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01039-1</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[将多样本网络推断从先验知识和OMICS数据统一使用Corneto]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01069-9</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年7月22日；  doi：10.1038/s42256-0256-025-01069-9 跨多个样本的网络，提高了可解释性和准确性。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01069-9</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用深层可变路径建模整合多模式癌数据]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01052-4</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年7月22日；  doi：10.1038/s42256-025-025-01052-4    使用复杂的遗传，显微镜和杂物性技术，并具有复杂的概括性技术，并具有挑战性的挑战。提出了一个结合深度学习和路径建模以整合成像和OMIC数据的框架，从而产生了统一的疾病模型。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01052-4</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过可区分的学习框架增强基于深度学习的现场重建]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01063-1</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年7月22日；  doi：10.1038/s42256-025-01063-1       准确地对稀疏传感器进行了复杂的高度高清领域的准确构造。引入了一个可区分的学习框架，该框架可以实现传感器放置优化和增强的现场重建。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01063-1</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在图形空间中使用可编程的非线性响应和几何约束设计超材料]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01067-x</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年7月22日；  doi：10.1038/s42256-025-025-01067-x     Maurizi等。引入GraphMetAmat，这是一个基于图的AI框架，用于设计具有可编程非线性响应的3D超材料，尽管制造缺陷和限制，但仍能实现新的结构和声学行为的逆设计。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01067-x</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:11 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 04:02:20 GMT</lastBuildDate>
     <item>
       <title><![CDATA[生物启发的轨迹调制，用于机器人操纵中的有效滑动控制]]></title>
       <link>https://www.nature.com/articles/s42256-025-01062-2</link>
       <description><![CDATA[自然机器智能，在线发布：2025年7月22日；  doi：10.1038/s42256-025-025-01062-2-2 这里提出了一种方法，而不是用更多的力抓住对象，以防止滑动的方式移动对象。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01062-2</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:10 GMT</pubDate>
+      <pubDate>Tue, 05 Aug 2025 04:02:18 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[数据符合可解释的生物学机理推断的先验知识]]></title>
       <link>https://www.nature.com/articles/s42256-025-01075-x</link>
       <description><![CDATA[自然机器智能，在线发布：2025年7月22日； &lt;a href =“ https://www.nature.com/articles/s42256-025-01075-x”生物学。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01075-x</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:08 GMT</pubDate>
+      <pubDate>Tue, 05 Aug 2025 04:02:17 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[人工智能同伴的情绪风险需要关注]]></title>
       <link>https://www.nature.com/articles/s42256-025-01093-9</link>
       <description><![CDATA[自然机器智能，在线发布：2025年7月22日；  doi：10.1038/s42256-025-025-01093-9       将AI整合到精神健康和健康域中的被监管和研究都超过了。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01093-9</guid>
-      <pubDate>Fri, 25 Jul 2025 03:54:07 GMT</pubDate>
+      <pubDate>Tue, 05 Aug 2025 04:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝着可解释的三维跟踪和逆神经渲染]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01083-x</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-025-025-01083-x 提出一种方法，将RGB输入作为反向渲染问题的视力问题重新提出问题，通过可区分的渲染管道优化了经过验证的三维对象模型的潜在变量。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01083-x</guid>
+      <pubDate>Tue, 05 Aug 2025 04:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[II型机械感受器和Cuneate尖峰神经元网络在大区域E-Skin上启用触摸定位]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01076-w</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-0256-025-01076-w   触觉感应对于与环境相互作用至关重要。提出了一个生物启发的尖峰神经元网络和大区域E-Skin，这使得无视触摸本地化和两点歧视的学习。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01076-w</guid>
+      <pubDate>Tue, 05 Aug 2025 04:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[地球观察的语义增强多模式遥感基础模型]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01078-8</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-025-025-01078-8    WU等。开发了Somysense ++，这是一种在2700万个多模式图像上预读的多模式遥感基础模型，在包括农业和灾难管理在内的几个地球观测任务和领域中实现了强大的概括，并且在几个地球观测任务和领域中实现了很少的射击功能。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01078-8</guid>
+      <pubDate>Tue, 05 Aug 2025 04:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[蛋白质 - 肽对接有理性，准确的扩散生成模型]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01077-9</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-025-025-01077-9  zhao等。当前的Rapidock是一种全原子扩散模型，可预测92种氨基酸类型的肽 - 蛋白质结合模式，从而实现了高通量虚拟筛查，以推进治疗肽设计。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01077-9</guid>
+      <pubDate>Tue, 05 Aug 2025 04:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于组织病理学的蛋白质多重生成使用深度学习]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01074-y</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月4日； doi:10.1038/s42256-025-01074-yHistoPlexer, a deep learning model, generates multiplexed protein expression maps from H&amp;E images, capturing tumour–immune cell interactions.它表现优于基准，增强免疫亚型和生存预测，并为精确肿瘤学提供了一种具有成本效益的工具。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01074-y</guid>
+      <pubDate>Tue, 05 Aug 2025 04:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
