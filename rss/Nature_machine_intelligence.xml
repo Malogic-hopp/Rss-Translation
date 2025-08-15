@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence将在机器学习，机器人技术和AI中发表高质量的原始研究和评论。该期刊还将探索并讨论这些领域开始对其他科学学科以及社会和工业许多方面产生的重大影响。机器智能可以在科学发现，医疗保健，医疗诊断以及安全可持续的城市，运输和农业等领域中增强人类能力和知识。同时，出现了有关道德，社会和法律问题的许多重要问题，特别是考虑到发展的快速发展，自然机器智能将提供一个平台来讨论这些广泛的含义（鼓励跨学科对话），并提供评论，新闻特征，新闻和amp;查看文章和通信。</description>
-    <lastBuildDate>Tue, 12 Aug 2025 03:43:32 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[朝着可解释的三维跟踪和逆神经渲染]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01083-x</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-025-025-01083-x 提出一种方法，将RGB输入作为反向渲染问题的视力问题重新提出问题，通过可区分的渲染管道优化了经过验证的三维对象模型的潜在变量。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01083-x</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:30 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 03:45:20 GMT</lastBuildDate>
     <item>
       <title><![CDATA[II型机械感受器和Cuneate尖峰神经元网络在大区域E-Skin上启用触摸定位]]></title>
       <link>https://www.nature.com/articles/s42256-025-01076-w</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-0256-025-01076-w   触觉感应对于与环境相互作用至关重要。提出了一个生物启发的尖峰神经元网络和大区域E-Skin，这使得无视触摸本地化和两点歧视的学习。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01076-w</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:27 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:45:18 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[地球观察的语义增强多模式遥感基础模型]]></title>
       <link>https://www.nature.com/articles/s42256-025-01078-8</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-025-025-01078-8    WU等。开发了Somysense ++，这是一种在2700万个多模式图像上预读的多模式遥感基础模型，在包括农业和灾难管理在内的几个地球观测任务和领域中实现了强大的概括，并且在几个地球观测任务和领域中实现了很少的射击功能。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01078-8</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:26 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:45:17 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[蛋白质 - 肽对接有理性，准确的扩散生成模型]]></title>
       <link>https://www.nature.com/articles/s42256-025-01077-9</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月4日；  doi：10.1038/s42256-025-025-01077-9  zhao等。当前的Rapidock是一种全原子扩散模型，可预测92种氨基酸类型的肽 - 蛋白质结合模式，从而实现了高通量虚拟筛查，以推进治疗肽设计。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01077-9</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:23 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:45:16 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于组织病理学的蛋白质多重生成使用深度学习]]></title>
       <link>https://www.nature.com/articles/s42256-025-01074-y</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月4日； doi:10.1038/s42256-025-01074-yHistoPlexer, a deep learning model, generates multiplexed protein expression maps from H&amp;E images, capturing tumour–immune cell interactions.它表现优于基准，增强免疫亚型和生存预测，并为精确肿瘤学提供了一种具有成本效益的工具。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01074-y</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:22 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:45:15 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[人脑中的高级视觉表示与大语言模型保持一致]]></title>
       <link>https://www.nature.com/articles/s42256-025-01072-0</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月7日；  doi：10.1038/s42256-025-025-01072-0        doerig，kietzmann和kietzmann and collea and Clogues the语言可以响应大脑的响应。通过将大脑活动与大型语言模型的基于标题的嵌入联系起来，该研究揭示了一种量化复杂视觉理解的方法。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01072-0</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:20 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:45:14 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于深度学习的预测，用于量化免疫受体曲目中选择的选择因子]]></title>
       <link>https://www.nature.com/articles/s42256-025-01085-9</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月11日；  doi：10.1038/s42256-0256-025-01085-9     tcrsep，用于预测选择因子的深度学习模型，量化了细胞选择。此外，各种基准旨在评估选择模型，表明TCRSEP的表现优于最先进的模型。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01085-9</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:19 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:45:13 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Kolmogorov -Arnold图神经网络用于分子性质预测]]></title>
       <link>https://www.nature.com/articles/s42256-025-01087-7</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月11日；  doi：10.1038/s42256-025-01087-7      li等。开发了KA-GNNS，通过Kolmogorov-Arnold网络增强的图形神经网络体系结构，这些网络提高了分子属性预测的准确性和可解释性，并将几何深度学习扩展到科学领域。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01087-7</guid>
-      <pubDate>Tue, 12 Aug 2025 03:43:17 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:45:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有senanticlens的大型AI模型的机械理解和验证]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01084-w</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月14日； doi:10.1038/s42256-025-01084-wSemanticLens is a tool that embeds artificial intelligence model components (such as neurons) into a searchable, human-understandable space.这可以使自动审计，验证决策以及对人类监督最少的有问题行为的检测。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01084-w</guid>
+      <pubDate>Fri, 15 Aug 2025 03:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
