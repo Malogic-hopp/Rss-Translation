@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence将在机器学习，机器人技术和AI中发表高质量的原始研究和评论。该期刊还将探索并讨论这些领域开始对其他科学学科以及社会和工业许多方面产生的重大影响。机器智能可以在科学发现，医疗保健，医疗诊断以及安全可持续的城市，运输和农业等领域中增强人类能力和知识。同时，出现了有关道德，社会和法律问题的许多重要问题，特别是考虑到发展的快速发展，自然机器智能将提供一个平台来讨论这些广泛的含义（鼓励跨学科对话），并提供评论，新闻特征，新闻和amp;查看文章和通信。</description>
-    <lastBuildDate>Wed, 20 Aug 2025 03:33:49 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[人脑中的高级视觉表示与大语言模型保持一致]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01072-0</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年8月7日；  doi：10.1038/s42256-025-025-01072-0        doerig，kietzmann和kietzmann and collea and Clogues the语言可以响应大脑的响应。通过将大脑活动与大型语言模型的基于标题的嵌入联系起来，该研究揭示了一种量化复杂视觉理解的方法。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01072-0</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于深度学习的预测，用于量化免疫受体曲目中选择的选择因子]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01085-9</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年8月11日；  doi：10.1038/s42256-0256-025-01085-9     tcrsep，用于预测选择因子的深度学习模型，量化了细胞选择。此外，各种基准旨在评估选择模型，表明TCRSEP的表现优于最先进的模型。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01085-9</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kolmogorov -Arnold图神经网络用于分子性质预测]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01087-7</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年8月11日；  doi：10.1038/s42256-025-01087-7      li等。开发了KA-GNNS，通过Kolmogorov-Arnold网络增强的图形神经网络体系结构，这些网络提高了分子属性预测的准确性和可解释性，并将几何深度学习扩展到科学领域。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01087-7</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:47 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 03:31:45 GMT</lastBuildDate>
     <item>
       <title><![CDATA[知情的蛋白质 - 配体通过地球，旋转和扭转空间中的测地剂指导]]></title>
       <link>https://www.nature.com/articles/s42256-025-01091-x</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月15日； doi:10.1038/s42256-025-01091-xGeoDirDock is a framework that guides the denoising process of a generative diffusion docking model along geodesic paths within multiple spaces representing自由的翻译，旋转和扭转程度。这种方法增强了配体对接预测的准确性和物理合理性。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01091-x</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有senanticlens的大型AI模型的机械理解和验证]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01084-w</link>
-      <description><![CDATA[自然机器智能，在线发布：2025年8月14日； doi:10.1038/s42256-025-01084-wSemanticLens is a tool that embeds artificial intelligence model components (such as neurons) into a searchable, human-understandable space.这可以使自动审计，验证决策以及对人类监督最少的有问题行为的检测。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01084-w</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:46 GMT</pubDate>
+      <pubDate>Thu, 21 Aug 2025 03:31:44 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过算法概括量化人工智能]]></title>
       <link>https://www.nature.com/articles/s42256-025-01092-w</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月18日；  doi：10.1038/s42256-0256-025-01092-w          ，尽管当前大型AI模型，符号模型，符号型和抽象的失败通常是这些模型，但这些系统通常是这些模型，这些任务是这些模型。从这个角度来看，Ito等。建议利用计算复杂性理论，将代数问题制定为可计算电路，以应对AI系统中数学和符号推理的挑战。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01092-w</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:45 GMT</pubDate>
+      <pubDate>Thu, 21 Aug 2025 03:31:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用文本注释来提高蛋白质表示的预测能力]]></title>
       <link>https://www.nature.com/articles/s42256-025-01088-6</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月18日； doi:10.1038/s42256-025-01088-6Although protein language models have enabled major advances, they often rely on indirect signals that may not fully capture functional relevance.在文本注释上对这些模型进行微调显示以提高其在功能预测任务上的性能。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01088-6</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:44 GMT</pubDate>
+      <pubDate>Thu, 21 Aug 2025 03:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[培训数据组成决定机器学习概括和生物规则发现]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01089-5</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月20日；  doi：10.1038/s42256-025-025-01089-5      负面数据构成批判性地塑造了基于序列的生物学的稳健性。培训数据组成及其含义是对生物规则发现的。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01089-5</guid>
+      <pubDate>Thu, 21 Aug 2025 03:31:41 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[一个统一的预训练的深度学习框架，用于交叉任务反应性能预测和综合计划]]></title>
       <link>https://www.nature.com/articles/s42256-025-01098-4</link>
       <description><![CDATA[自然机器智能，在线发布：2025年8月19日；  doi：10.1038/s42256-025-025-01098-4    Xu等。当前的RXNGraphormer是一种预先训练的模型，该模型从1300万个反应中学习了键转换模式，从而实现了反应性能预测和合成计划的最新精度。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01098-4</guid>
-      <pubDate>Wed, 20 Aug 2025 03:33:43 GMT</pubDate>
+      <pubDate>Thu, 21 Aug 2025 03:31:41 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ED2mol的电子密度信息有效且可靠的新分子设计和优化]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01095-7</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月20日；  doi：10.1038/s42256-025-025-01095-7        是通过deo novo solecular deak a ve de dee de a  a     湿生产测定证实了其对产生多种生物活性分子的可靠性 - 代表性和变构，抑制剂和激活剂。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01095-7</guid>
+      <pubDate>Thu, 21 Aug 2025 03:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[迈向负责任的地理空间基础模型]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01106-7</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月20日； doi:10.1038/s42256-025-01106-7Recent years have seen a surge in geospatial artificial intelligence models, with promising applications in ecological and environmental monitoring tasks.进一步的工作还应集中于此类模型的可持续发展。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01106-7</guid>
+      <pubDate>Thu, 21 Aug 2025 03:31:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[负训练数据对于鲁棒抗体结合预测的重要性]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01080-0</link>
+      <description><![CDATA[自然机器智能，在线发布：2025年8月20日；  doi：10.1038/s42256-025-025-01080-0-0     周到设计的负面训练数据集可能会保持更稳定的机器学习模型。 Ursu等。揭示负训练数据组成如何塑造抗体预测模型及其普遍性。有时，更好的方法是更努力地训练。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01080-0</guid>
+      <pubDate>Thu, 21 Aug 2025 03:31:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
