@@ -4,41 +4,69 @@
     <title>AAAS：科学机器人技术：目录</title>
     <link>https://www.science.org/loi/scirobotics?af=R</link>
     <description>科学机器人技术目录。来自最新和印刷问题的文章清单。</description>
-    <lastBuildDate>Thu, 11 Sep 2025 03:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 03:27:35 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[BCIT的野兽轮椅以功率，精确和飞行员为主导的设计搭配Cybathlon]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeb1340?af=R</link>
+      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeb1340?af=R</guid>
+      <pubDate>Thu, 18 Sep 2025 03:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[手臂假体具有灵巧的控制和感觉反馈，在Cybathlon中取得了胜利]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aea9377?af=R</link>
+      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aea9377?af=R</guid>
+      <pubDate>Thu, 18 Sep 2025 03:27:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[对机器人操作的基于学习的动态模型的综述]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt1497?af=R</link>
+      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt1497?af=R</guid>
+      <pubDate>Thu, 18 Sep 2025 03:27:31 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[教育机器人如何改善家庭生活？通过仔细整合]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu6123?af=R</link>
       <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu6123?af=R</guid>
-      <pubDate>Thu, 11 Sep 2025 03:26:09 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 03:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于无线机器人感应和操纵的微型磁磁通器]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu4851?af=R</link>
+      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu4851?af=R</guid>
+      <pubDate>Thu, 18 Sep 2025 03:27:29 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[观察机器人同伴的失败有助于学生的课堂学习]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu5257?af=R</link>
       <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu5257?af=R</guid>
-      <pubDate>Thu, 11 Sep 2025 03:26:08 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 03:27:28 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[机器人阅读伴侣可以减轻儿童的口服阅读焦虑]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu5771?af=R</link>
       <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu5771?af=R</guid>
-      <pubDate>Thu, 11 Sep 2025 03:26:07 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 03:27:27 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[微型电子生物杂化机器人的光遗传学神经肌肉致动]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu5830?af=R</link>
       <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu5830?af=R</guid>
-      <pubDate>Thu, 11 Sep 2025 03:26:06 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 03:27:26 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Roboballet：使用图神经网络和增强学习的多机器人计划计划]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.ads1204?af=R</link>
       <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.ads1204?af=R</guid>
-      <pubDate>Thu, 11 Sep 2025 03:26:05 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 03:27:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
