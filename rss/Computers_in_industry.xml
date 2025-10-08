@@ -1,289 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect出版物：行业计算机</title>
+    <title>ScienceDirect 出版物：工业计算机</title>
     <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
-    <description>ScienceDirect RSS</description>
-    <lastBuildDate>Tue, 07 Oct 2025 03:20:22 GMT</lastBuildDate>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 08 Oct 2025 03:18:27 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[编辑委员会]]></title>
+      <title><![CDATA[编委会]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S016636152500137X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年11月  来源：行业中的计算机，第172卷 作者：]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152500137X?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:21 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:27 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一个平台，以支持农业持有的数字双胞胎的快速发展]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001125?dgcid=rss_sd_all</link>
-      <description><![CDATA[ p&gt; P&gt; PB&gt; 2025年11月 来源：行业计算机，第172卷 作者：作者：Jorge Laguna，Mario E. Suaza-Medina，Rubén&lt;ééjar，Javier Lacasta，Javier Lacasta，F。JavierLacasta，F。JavierLacasta，F。F. F. F.]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001125?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[灵活性驱动的策略，用于在堆叠的能源市场上最佳的工业电池安排]]></title>
+      <title><![CDATA[跨堆叠能源市场的工业电池优化调度的灵活性驱动策略]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001113?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年11月  来源：行业计算机，第172卷 作者：Adelabâra，Simona-Vasilica oprea ]]></description>
+      <description><![CDATA[出版日期：2025 年 11 月来源：工业计算机，第 172 卷作者：Adela Bâra、Simona-Vasilica Oprea]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001113?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:20 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小样本下薄壁特征域对抗神经网络在线铣削变形预测方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001149?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: November 2025Source: Computers in Industry, Volume 172Author(s): Jingjing Li, Guanghui Zhou, Chao Zhang, Zhijie Wei, Fengyi Lu]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001149?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:18:24 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过动态模式分解 - 卡尔曼滤波器方法，在注射成型过程中开发数字双零件冷却]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525000983?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年11月  来源：行业中的计算机，第172卷 作者：Mandana Kariminejad，David Tormey，Marion McAfee，Marion McAfee ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525000983?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:17 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一个平台，以支持农业持有的数字双胞胎的快速发展]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001125?dgcid=rss_sd_all</link>
+      <description><![CDATA[ p&gt;公开日期：2025年11月 来源：行业计算机，第172卷 作者：作者：Jorge Laguna，Mario E. Suaza-Medina，Rubén&lt;ééjar，F。Javier Lacasta，F。Javier Lacasta，F。Javier Lacasta，F。Javier Lacasta，F。F. F. F. F. F. F. F. F. F.]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001125?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:18:24 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于代理的方法，用于在工业环境中自动生成有效的 SysMLv2 模型]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001150?dgcid=rss_sd_all</link>
-      <description><![CDATA[ p&gt;出版日期：2025年11月 来源：工业计算机，第172卷 作者：EduardoCibrián，Jose Olivert-Iserte，John Llarez-Rorez-Rorens，JoseMarárirition，JoseMarárídríd，JoseMarárídríd，JoseMarídrídrídrídiríd]]></description>
+      <description><![CDATA[p&gt;出版日期：2025 年 11 月来源： Computers in Industry，第 172 卷作者：Eduardo Cibrián、Jose Olivert-Iserte、John llarez-rorez-rorens、Jose Marárídríd、Jose Marídríd]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001150?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:15 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:22 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[薄壁特征的在线铣削变形预测方法，带有域的对抗神经网络小样本下的对抗性神经网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001149?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: November 2025Source: Computers in Industry, Volume 172Author(s): Jingjing Li, Guanghui Zhou, Chao Zhang, Zhijie Wei, Fengyi Lu]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001149?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种新颖的间隔价值碳价格预测范式：基于多因素智能识别的合奏学习]]></title>
+      <title><![CDATA[一种新颖的区间值碳价预测范式：基于多因素智能识别的集成学习]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001174?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 11 月来源：工业计算机，第 172 卷作者：郝岩、王小迪、杨文东]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001174?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:13 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[需求响应系统的语义中间件：增强制造绿色电力管理中的数据互操作性]]></title>
+      <title><![CDATA[需求响应系统语义中间件：增强制造业绿色电力管理中的数据互操作性]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001198?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年11月  来源：行业计算机，第172卷 作者：蒂娜·博鲁克（Tina Boroukhian），克里特科恩·索比（Kritkorn Supyen），克里斯托弗·威廉·麦克劳兰（Christopher William McLaughlan）]]></description>
+      <description><![CDATA[出版日期：2025 年 11 月来源：《工业计算机》，第 172 卷作者：Tina Boroukhian、Kritkorn Supyen、Christopher William Mclaughlan、Atit Bashyal、Tuan Pham、Hendro Wicaksono]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001198?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于洛拉的多跳工业互联网网络部署的碳足迹优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001137?dgcid=rss_sd_all</link>
-      <description><![CDATA[ p&gt; P&gt;公开日期：2025年11月 来源：行业中的计算机，第172卷 作者：francisco-jose jose alvarado-acon，rafael asorey asorey asorey asorey asorey-cacheda，antonio-jaro-jaro-jaro-jaro-javier garcia-sanchezez。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001137?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:10 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:18 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[RLGB：增强学习引导的光束搜索纸机干燥机部分中的过程优化]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001162?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 11 月来源：工业计算机，第 172 卷作者：Siyuan Chen、Munevver Elif Asar、Jamal Yagoobi、Chenhui Shao]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001162?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:08 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于洛拉的多跳工业互联网网络部署的碳足迹优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001137?dgcid=rss_sd_all</link>
+      <description><![CDATA[ p&gt; P&gt;公开日期：2025年11月 来源：行业中的计算机，第172卷 作者：francisco-jose-jose alvarado-acon，rafael asorey asorey asorey asorey asorey asorey-cacheda，antonio-jaro-jaro-jaro-javier garcia-sanchezez。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001137?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:18:15 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[知识图构建具有元学习的跨性别制造知识]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001186?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年11月  来源：行业计算机，第172卷 作者：Yanzhen Jing，Guanghui Zhou，Chao Zhang，Chao Zhang，Fengtian，Fengtian Chang，Jiacheng Li        ]]></description>
+      <description><![CDATA[出版日期：2025 年 11 月来源：工业计算机，第 172 卷作者：景艳珍、周光辉、张超、常丰天、李家成]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001186?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:07 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:13 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一个具有动态亚域适应性的新型无注意的FCFormer网络，用于开放式故障诊断电机轴承]]></title>
+      <title><![CDATA[一种具有动态子域自适应的新型无注意力 FCformer 网络，用于电机轴承开集故障诊断]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001228?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月 来源：行业计算机，第173卷    iauthor（s）：chaoyang weng，baochun lu，longmiao chen，longmiao chen，yaang zhao或huang Zhao或Huang                     ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001228?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:06 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:12 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[工业AI系统中的数据问题：元评论和研究策略]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001265?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：xuejiao li，Yang Cheng，CharlesMøller，Jay Lee ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001265?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:01 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:11 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于多渠道和多分支一维卷积神经网络的泄漏检测石油和天然气管道的泄漏检测]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001216?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：丹迪杨，彭王，吉伊·卢，钟，钟鸟]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：杨丹迪、王鹏、鲁静一、关闯、董红利]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001216?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:20:00 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:10 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一个基于独立样本的个人概括框架，用于更合理的故障诊断基准]]></title>
+      <title><![CDATA[基于独立样本的个体泛化框架，以建立更合理的故障诊断基准]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001241?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Yiming He，Weiming Shen ]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：何一鸣、沉伟明]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001241?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:59 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:09 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[盾牌隧道设计集成本体论和自然语言处理的半自动合规性检查框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001277?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月 来源：行业中的计算机，第173卷  作者：Yuxian Zhang，Xuhua ren，Zhang Zhang Zhang ]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：计算机工业，第 173 卷作者：Yusian zhang、xuhua ren、zhang zhang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001277?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:58 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种基于视觉感知元素的汽车3D形状的视觉复杂性评估的学习模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016636152500123X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：沉成毅、刘长傲、罗世健、张德银、王耀]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152500123X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:18:06 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[具有多尺度建筑表示的住宅社区的可控生成设计框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001320?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Shidong Wang，Renato Pajarola ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001320?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:56 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:06 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一种基于视觉感知元素的汽车3D形状的视觉复杂性评估的学习模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016636152500123X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：s）：chengyi Shen，Changao Liu，Shijian Luo，Deyin Zhang，Deyin Zhang，Yao Wang Wang            ]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152500123X?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:55 GMT</pubDate>
+      <title><![CDATA[一种新型动态变分补偿网络，具有多速率工业过程质量预测跟踪功能]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001290?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Shihao Duan，Hengqian Wang，Chuang Peng，Lei Chen，Lei Chen，Kuangrong Hao       ]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001290?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:18:05 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于增强Yolov8的道路表面损伤检测]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001289?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：作者：Wenjin Chen，Jia Sheng Yang，Chenbo Xia，Yaosong Yaosong Li，Xu Xiao   ]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：陈文进、杨佳胜、夏陈波、李耀松、肖旭]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001289?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:53 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:04 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一个新型的动态差异补偿网络，并跟踪多次工业过程的质量预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001290?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Shihao Duan，Hengqian Wang，Chuang Peng，Lei Chen，Lei Chen，Kuangrong Hao       ]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001290?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过将与粒度相关的拉丁高管抽样与基于LSTM的预测整合到风能系统的可靠性评估]]></title>
+      <title><![CDATA[通过将粒度相关的拉丁超立方采样与基于 LSTM 的预测相结合来评估风电系统的可靠性]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001307?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：yonggang li，yaotong su，lei xia，yui xia，Yuanjin Zhang，Weinong Wu，Weinong Wu，Longjiang Li  li &gt;/p&gt; &gt;/p&gt;&gt;/p&gt;]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：李永刚、苏耀通、夏蕾、张元金、吴伟农、李龙江]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001307?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:52 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[汽车行业非生产材料消耗关联规则辅助多时间序列预测方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001319?dgcid=rss_sd_all</link>
+      <description><![CDATA[在《工业在工业》中，第 173 卷？]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001319?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:18:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[可靠性分析和剩余的有用的寿命估计，对两个变量的分阶段降解系统]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001332?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2025Source: Computers in Industry, Volume 173Author(s): Bincheng Wen, Xin Zhao, Haizhen Zhu, Jinjun Cheng, Changjun Li, Mingqing Xiao]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001332?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:51 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:18:00 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[协会规则辅助的多时间系列预测方法用于汽车部门的非生产材料消耗]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001319?dgcid=rss_sd_all</link>
-      <description><![CDATA[在工业中，第173卷？]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001319?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[轻巧的变压器绕组条件评估方法具有多尺度图像融合和改进的注意机制]]></title>
+      <title><![CDATA[一种多尺度图像融合和改进注意力机制的轻量级变压器绕组状态评估方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001423?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：yongteng Sun，Hongzhong MA ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001423?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:48 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:57 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[对制造中基于深度学习的表面缺陷检测的图像合成方法的全面调查]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001253?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Aru Ranjan Singh，毒药Hazra，Abhishek Goswami，Kurt Debattita，Thomas Bashford-Rogers ]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：Aru ranjan singh、poison hazra、abhishek goswami、kurt debattita、Thomas Bashford-rogers]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001253?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:47 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过光流和重建引导进行零样本印刷电路板缺陷检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001204?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: December 2025Source: Computers in Industry, Volume 173Author(s): Xinghang Yin, Shuxia Wang, Yue Wang, Peng Wang, Yongxu Liu, Tianle Shen, Hengjie Qiao]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001204?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:17:54 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[SmartArw：一种文本感知的智能移动工业增强现实（AR）接线组装系统]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001447?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Tienong Zhang，Wei Fang，Lixi Chen，Qiankun Zhang，Qiankun Zhang，Hao Hu，Hao Hu，Hao Hu，Jiapeng Bi              ]]></description>
+      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Tienong Zhang，Wei Fang，Lixi Chen，Qiankun Zhang，Qiankun Zhang，Hao Hu，Hao Hu，Jiapeng Bi              ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001447?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:45 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:54 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[转移基于国家的潜在游戏以进行分散制造系统中的过程优化]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001411?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：史蒂夫·尤沃诺（S）]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：《工业计算机》，第 173 卷作者：Steve Yuwono、Dorothea Schwung、Andreas Schwung]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001411?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:44 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:53 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过光流和重建指导零射击印刷电路板缺陷检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001204?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: December 2025Source: Computers in Industry, Volume 173Author(s): Xinghang Yin, Shuxia Wang, Yue Wang, Peng Wang, Yongxu Liu, Tianle Shen, Hengjie Qiao]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001204?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有限机载信号采集下飞机制动控制阀故障诊断的增强型跨域信号和基于物理的解释]]></title>
+      <title><![CDATA[增强的跨域信号和基于物理的解释，用于在有限的机载信号获取下飞机制动控制阀的故障诊断]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001435?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：lin lin，yin chen，wenhui he，song fu，song fu，shiwei suo ]]></description>
+      <description><![CDATA[出版日期：2025年12月来源：工业计算机，第173卷作者：林琳、陈银、何文辉、付松、索世伟]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001435?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:42 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:51 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于机器学习驱动的可靠性提高的元动作理论的空气发动机转子的故障诊断技术]]></title>
+      <title><![CDATA[机器学习驱动的基于元作用理论的航空发动机转子故障诊断技术提高可靠性]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001460?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：工业计算机，第173卷 作者：Yulong Li，Junfa Li，Junfa Li，Hui Long，Suthao Long，Suthao Wen，Minghui Gu，Hongwei Wang Wang Wang Wang                ]]></description>
+      <description><![CDATA[出版日期：2025年12月来源：工业计算机，第173卷作者：李玉龙、李俊发、龙辉、温书涛、顾明辉、王宏伟]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001460?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:41 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:49 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于多任务学习的机械工程中异常传感器数据的细分，校正和分类]]></title>
+      <title><![CDATA[基于多任务学习的机械工程异常传感器数据分割、校正和分类]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001526?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：xirui chen，hui liu ]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：陈熙睿、刘辉]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001526?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:40 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:47 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[改善机器人数字化设施管理中的互操作性：工业基金会班级代表性的机器人方法]]></title>
+      <title><![CDATA[提高设施管理机器人数字孪生的互操作性：以行业基础类为代表的 RoboAvatar 方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001496?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：junjie chen，weisheng lu，xiang ji，xiang ji，yonglin fu ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001496?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:38 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:45 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[深度学习驱动的供暖，通风和空调压缩机故障诊断面临看不见的域和阶级失衡]]></title>
+      <title><![CDATA[深度学习驱动的供暖、通风和空调压缩机故障诊断面临着看不见的领域和类别不平衡]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001514?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：hong Wang，Jun Lin，Zijun Zhang ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001514?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:37 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:44 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[从用户生成的内容到质量改进：使用深度学习对新能量车辆中客户满意度和关注的多范围分析]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001459?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Zhaoguang Xu，Yifan Wu，Lin Tang，Shumeng Gui ]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：《工业计算机》，第 173 卷作者：徐兆光、吴一凡、唐林、桂树萌]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001459?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:36 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:43 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于混合噪声合成的工业缺陷检测方法]]></title>
+      <title><![CDATA[一种基于混合噪声合成的工业缺陷检测方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001538?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：aihua ke，jian luo，yaoxiang yu，li li，le li，bo cai ]]></description>
+      <description><![CDATA[出版日期：2025年12月来源：工业计算机，第173卷作者：柯爱华、罗健、于耀翔、李乐、蔡博]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001538?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:35 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:41 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有多个检索位置的层对层穿梭式存储和检索系统的运行时间和货架稳定性优化]]></title>
+      <title><![CDATA[具有分层多分支特征提取和群决策注意力的轻质金属表面缺陷检测网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001551?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：Meng Zhang，Yanzhu Hu，Lisha Luo，Binbin Xu，Song Wang，Yingjian Wang Wang Wang  ]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001551?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:17:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于多个检索位置]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001502?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月 来源：行业计算机，第173卷 作者：Zhun Xu，Liun Xu，Huan Shao，Timo Lehmann，Timo Lehmann，Andrea Matta &lt;/p。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001502?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:34 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:39 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Symmflow：通过对称归一流流量无监督的异常检测]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001587?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Zeyu Zhang，Danqing Kang，Biaohua ye，Jianhuang ye，Jianhuang Lai ]]></description>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：张泽宇、康丹青、叶标华、赖建黄]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001587?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:31 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:38 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有分层多分支特征提取和小组决策关注的轻质金属表面缺陷检测网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001551?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：Meng Zhang，Yanzhu Hu，Lisha Luo，Binbin Xu，Song Wang，Yingjian Wang Wang Wang  ]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001551?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过基于区块链的加密锚定和双锁完整性审核来确保增材制造]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001605?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：Mahender Kumar，Gregory Epiphaniou，Carsten Maple ]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001605?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CASIA网络：室内工作现场吸烟探测框架]]></title>
+      <title><![CDATA[CASIA-Net：室内工作场所吸烟检测框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001484?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年12月  来源：行业中的计算机，第173卷 作者：Meng Wang，Mei Li ]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001484?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 Oct 2025 03:19:30 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 03:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过基于区块链的加密锚定和双锁完整性审核确保增材制造的安全]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001605?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年12月  来源：行业计算机，第173卷 作者：Mahender Kumar，Gregory Epiphaniou，Carsten Maple ]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001605?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:17:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用多源声波数据和混合深度学习方法的实时火灾温度场重建]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016636152500154X?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: December 2025Source: Computers in Industry, Volume 173Author(s): Hengjie Qin, Pengyu Qu, Cheng Cheng, Haowei Yao, Zhen Lou, Zihe Gao, Donghao Li, Xiaoge Wei]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152500154X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:17:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于无服务钢轨表面缺陷检测的模糊特征集成增强网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001472?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 12 月来源：工业计算机，第 173 卷作者：黄黎明、龚傲君]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001472?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 08 Oct 2025 03:17:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
