@@ -1,359 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
+    <title>ScienceDirect 出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Wed, 08 Oct 2025 03:17:31 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[使用 GMM 通知的 RRT 规划器在受限环境中进行任务感知运动规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001498?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月 来源：机器人技术和计算机集成制造，第97卷 作者：作者：Abdelaziz Shaarpanah，Abdelaziz Shaarpanah，Alireza Rastegaryam，Roreza Roreza Rastegaryam，Roreza Rastegaryam，rostemorms，rostorms，rostorms，rostorms，rostorms，rostorms，rostorms，rostorms]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001498?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[由多个二次曲面组成的噪声点云的表面分割和焊缝提取]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001541?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: February 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 97Author(s): Bo Yang, Zhengtuo Wang, Yuetong Xu, Songyu Hu, Guanhua Xu, Jianzhong Fu]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001541?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在同步操作环境中，数字双驱动的Opti-State控制方法用于智能仓储]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S073658452500153X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月  来源：机器人和计算机集成制造，第97卷 作者（s）：yongheng Zhang，Ting Qu，ting Qu，ehicong hong，ehong hong，Zhongfei Zhang Zhang，George Q. Huang Q. Huang ]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500153X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:30 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 03:27:38 GMT</lastBuildDate>
     <item>
       <title><![CDATA[由 Petri 网启发式驱动的深度强化学习，用于增强机器人作业车间的实时调度]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001516?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月  来源：机器人和计算机集成制造，第97卷 作者：Sijia Yi，Jiliang Luo ]]></description>
+      <description><![CDATA[出版日期：2026年2月来源：机器人与计算机集成制造，第97卷作者：易思佳、罗吉良]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001516?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:27 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:38 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于增强飞机发动机复合材料风扇叶片性能的机器人预钻孔 Z 形销钉方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001589?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: February 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 97Author(s): Zhanxi Wang, Pengfei Liu, Xiaoyu Zhang, Weiwei Liu, Wenjie Chen, Xinliang Wang, Mingxin Yin, Zhengle Liao, Xiansheng Qin, Chen Zheng]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001589?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:26 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:37 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[大型复杂场景下基于单目视觉的移动机器人末端执行器动态鲁棒引导]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001553?dgcid=rss_sd_all</link>
-      <description><![CDATA[&lt;公共：2026年2月&lt;是的，那是张，wei liu ]]></description>
+      <description><![CDATA[&lt;公开：2026年2月&lt;是的，那就是张，刘伟]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001553?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:25 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:36 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[认知数字双胞胎以匹配可重构制造的能力：利用资产管理壳和大型语言模型]]></title>
+      <title><![CDATA[用于可重构制造能力匹配的认知数字孪生：利用资产管理外壳和大型语言模型]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001590?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 2 月来源：《机器人技术与计算机集成制造》，第 97 卷作者：Dachuan Shi、Olga Meyer、Zhi Fan、Hao Wang、Thomas Bauernhansl]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001590?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:24 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:34 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于改进NSGA-III算法的模糊需求云制造服务组合优化方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001607?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月  来源：机器人和计算机集成制造，第97卷 作者：xianhui liu，run yang，run yang，yang，xiaobin li，xi vincent li，xi vincent wang wang     ]]></description>
+      <description><![CDATA[出版日期：2026年2月来源：机器人与计算机集成制造，第97卷作者：刘贤辉、杨润、李晓斌、奚文森王]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001607?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:23 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:33 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[探测行业5.0的AR辅助HRC组装：多模式相互认知和LLM驱动的知识推理]]></title>
+      <title><![CDATA[探索AR辅助的工业5.0无缝HRC装配：多模态相互认知和LLM驱动的知识推理]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001668?dgcid=rss_sd_all</link>
-      <description><![CDATA[&lt;公开：2026年2月&lt;臧、白错号、刘章]]></description>
+      <description><![CDATA[&lt;公开：2026年2月&lt;臧，跛行，刘章]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001668?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:22 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:32 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[人类与机器人协作组装工作站集成设计的框架]]></title>
+      <title><![CDATA[人机协同装配工作站集成设计框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001620?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月  来源：机器人和计算机集成制造，第97卷 作者：Martina Salami，Pietro Bilancia，Pietro Bilancia，Margherita Peruzzini，Marcello pellicciari ]]></description>
+      <description><![CDATA[出版日期：2026 年 2 月来源：《机器人技术和计算机集成制造》，第 97 卷作者：Martina Salami、Pietro Bilancia、Margherita Peruzzini、Marcello Pellicciari]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001620?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:20 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:29 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Exechon X-mini PKM 通过变形建模和误差补偿预测加工过程的几何质量]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001693?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月  来源：机器人和计算机集成制造，第97卷 作者：Shakya Bandara，Yan Jin，Mien van，Mien van，Mien van，Dan Sun，Dan Sun，Rao Fu，Rao Fu，Patrick Curley，Patrick Curley，Glenn Rutherford，Colm Higherfords ]]></description>
+      <description><![CDATA[出版日期：2026 年 2 月来源：机器人与计算机集成制造，第 97 卷作者：Shakya Bandara、Yan Jin、Mien Van、Dan Sun、Rao Fu、Patrick Curley、Glenn Rutherford、colm higgins]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001693?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:19 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:28 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[TS-RIL：一个两阶段机器人模仿学习框架，在现实操作场景中具有运动轨迹学习和避障功能]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001656?dgcid=rss_sd_all</link>
       <description><![CDATA[&lt;公开：2026 年 2 月]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001656?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:17 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:26 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[安全的多渠道沟通用于人类 - 机器人协作]]></title>
+      <title><![CDATA[用于人机协作的安全多通道通信]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001632?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: February 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 97Author(s): Gorkem Anil Al, Uriel Martinez-Hernandez]]></description>
+      <description><![CDATA[出版日期：2026 年 2 月来源：《机器人技术和计算机集成制造》，第 97 卷作者：Gorkem Anil Al、Uriel Martinez-Hernandez]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001632?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:15 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:23 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于法学硕士的航空航天线束装配人机协作自主代理]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001747?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年2月来源：机器人与计算机集成制造，第97卷作者：王一伟、郭奇、郑连宇、王彬彬、郑派、齐中华]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001747?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:13 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能制造中的涂层缺陷检测：进展、挑战和未来趋势]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001334?dgcid=rss_sd_all</link>
+      <description><![CDATA[二月]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001334?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:27:20 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过多模式语言模型和空间智能增强自然的人机协作：途径和观点]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001188?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: February 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 97Author(s): Duidi Wu, Pai Zheng, Qianyou Zhao, Shuo Zhang, Jin Qi, Jie Hu, Guo-Niu Zhu, Lihui Wang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001188?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:12 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能制造中的涂料缺陷检测：进步，挑战和未来趋势]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001334?dgcid=rss_sd_all</link>
-      <description><![CDATA[二月]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001334?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:11 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:20 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[制造业中的机器人数字孪生系统：技术、应用、趋势和挑战]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001577?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：机器人与计算机集成制造，第97卷作者：秦强、刘志豪、钟瑞瑞、Xi Vincent Wang、王立辉、Magnus Wiktorsson、Wei Wang]]></description>
+      <description><![CDATA[出版日期：2026年2月来源：机器人与计算机集成制造，第97卷作者：秦强、刘志浩、钟瑞瑞、Xi Vincent Wang、王立辉、Magnus Wiktorsson、Wei Wang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001577?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:09 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:17 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过演示学习人机技能迁移自主动态系统的调查]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001462?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: February 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 97Author(s): Jiayun Fu, Haotian Huang, Zhehao Jin, Andong Liu, Wen-An Zhang, Li Yu, Weiyong Si, Chenguang Yang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001462?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用自然语言模型的工业机器人技术的转型：最新的进步和未来前景]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S073658452500167X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月  来源：机器人和计算机集成制造，第97卷 作者：]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500167X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:07 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:17 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[探索人机协作系统中的任务和挑战：综述]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001565?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月  来源：机器人技术和计算机综合综合，第97卷     作者（s） Lohse ]]></description>
+      <description><![CDATA[出版日期：2026 年 2 月来源：机器人与计算机集成，第 97 卷作者：seemal asif、tiziaana C. Callari、Iveta eimontaite、eill-mae Hubbard、Masoud S. Bahrain、Phil Webb、Niels 洛斯]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001565?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:07 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用自然语言模型改造工业机器人：最新进展和未来前景]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452500167X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月来源：机器人与计算机集成制造，第97卷作者：赵宇、张培泽、石静]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500167X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:27:13 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[人机交互中基于视觉的手部检测、手部分割和手势识别的深度学习综述]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001644?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 2 月来源：机器人与计算机集成，第 97 卷作者：reza jalayer、masoud jallay、carlottta orsenigo、masayoshi tomizuka]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001644?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:06 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:12 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[DSF-Net：用于航天器热控涂层缺陷检测的双空间频率动态网络]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001711?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: April 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 98Author(s): Kailin Hou, Rongyi Li, Xianli Liu, Xiaohua Liu, Ying Wang, Caixu Yue, Haining Gao]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001711?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:04 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:11 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于多自由度成形件偏差的并联机构运动误差逆标定]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S073658452500170X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年4月来源：《机器人与计算机集成制造》第98卷作者：黄波、韩星辉、郑方彦、华林、庄武浩]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500170X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:03 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于现场扫描点云的平滑、刚性、灵巧的机器人加工路径规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001681?dgcid=rss_sd_all</link>
+      <description><![CDATA[&lt;公开2026&lt;郑、李文龙、罗军]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001681?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:27:09 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于力传感的柔顺误差补偿控制用于弱刚度薄壁零件的机器人铣削]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001759?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年4月来源：《机器人与计算机集成制造》第98卷作者：顾群飞、刘顺、孙进、刘东]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001759?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:01 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:06 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于现场扫描点云的平滑、刚性、灵巧的机器人加工路径规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001681?dgcid=rss_sd_all</link>
-      <description><![CDATA[&lt;公共2026年]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001681?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为未来的电池生产研究建模细胞完成的灵活配置]]></title>
+      <title><![CDATA[为未来电池生产研究对电池精加工的灵活配置进行建模]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001735?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月  来源：机器人技术和计算机集成制造，第98卷 作者：Sicong Deng，Jonas Wieskamp，Henrik，Henrik，Henrik Born，Heiner Hansh Heines Heine Heimes，Achim Kampker，Achim Kampker ]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源：机器人与计算机集成制造，第 98 卷作者：Sicong Deng、Jonas Wieskamp、Henrik Born、Heiner Hans Heimes、Achim Kampker]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001735?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:58 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:05 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[长期短期机器人安全控制框架基于隐藏的动作空间启发式软演员 - 批评]]></title>
+      <title><![CDATA[基于隐藏动作空间启发式软演员-批评家的长短期机器人安全控制框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001619?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: April 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 98Author(s): Yixuan Liang, Ze Wang, Yunan Wang, Jichuan Yu, Jizhou Yan, Shize Lin, Zhao Jin, Jiuru Lu, Chuxiong Hu]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001619?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:57 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:04 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于改进的三重可逆动态运动原语的主从双臂从演示组装中学习]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001723?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年4月来源：《机器人与计算机集成制造》第98卷作者：李翔飞、简宇辉、赵欢、单宇伟、丁韩]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001723?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:55 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:03 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于数字孪生的双深度Q网络不确定不可拆卸条件下机器人拆卸序列动态规划]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001863?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月  来源：机器人和计算机集成制造，第98卷 作者：jiayi liu，zhenlu xu，zhenlu xu，wenjun xu，wenjun xu，lei qi，lei qi，yuning han，yuning han，yuning han，yuning zhou  zhou  &gt; &gt; &gt;&gt;&gt;]]></description>
+      <description><![CDATA[出版日期：2026年4月来源：《机器人与计算机集成制造》第98卷作者：刘嘉义、徐振录、徐文军、齐雷、韩宇宁、周祖德]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001863?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用混合建模提高机床的动态精度]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001917?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 4 月来源：机器人与计算机集成制造，第 98 卷作者：Haijia Xu、Christoph Hinze、Andrea Iannelli、Zexu Zhou、Alexander Verl]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001917?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:51 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:02 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[多轴增材制造中基于力的自适应沉积：低孔隙率以增强强度]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001772?dgcid=rss_sd_all</link>
-      <description><![CDATA[Pighew 2026 &lt;离开，Guoxin Fang，我们不是Charlie C.L.吃]]></description>
+      <description><![CDATA[Pighew 2026&lt; 离开，方国信，我们不是，Charlie C.L.吃了]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001772?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:51 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:27:00 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[准确的定位和围墙磨削计划，用于薄壁锥形管道内的机器人加工机器人]]></title>
+      <title><![CDATA[使用混合建模的预测前馈优化提高机床的动态精度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001917?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：机器人与计算机集成制造，第 98 卷作者：Haijia Xu、Christoph Hinze、Andrea Iannelli、Zexu Zhou、Alexander Verl]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001917?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:58 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[薄壁锥形管管内加工机器人精确定位及环焊缝磨削规划]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001784?dgcid=rss_sd_all</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[&lt;发布：吃了]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001784?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:48 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[数字孪生和人工智能驱动的机器人体现控制系统：一种新颖的自适应学习和决策优化方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001929?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 98Author(s): Hao Li, Xingyou He, Yonglei Wu, Gen Liu, Haoqi Wang, Xiaoyu Wen, Linli Li]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001929?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:54 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于机器人磨削的新型并行末端执行器的设计、建模和实现]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001760?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月  来源：机器人和计算机集成制造，第98卷 作者：]]></description>
+      <description><![CDATA[出版日期：2026年4月来源：机器人与计算机集成制造，第98卷作者：李志森、李雨农、刘飞、徐鹏、李冰]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001760?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:47 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:54 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[使用 Cross-Modal Transformers 构建自动化多模态流程知识图，实现智能流程规划]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001954?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年4月来源：《机器人与计算机集成制造》第98卷作者：徐庆峰、张超、马东旭、李家成、冷杰武、周光辉]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001954?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:46 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:53 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525001929?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: April 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 98Author(s): Hao Li, Xingyou He, Yonglei Wu, Gen Liu, Haoqi Wang, Xiaoyu Wen, Linli Li]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001929?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过基于学习的协调算法的灵活预防维护和客户端工人的绿色生产的整合计划]]></title>
+      <title><![CDATA[通过基于学习的协同进化算法，将绿色生产与灵活的预防性维护和客户端工人集成调度]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001942?dgcid=rss_sd_all</link>
       <description><![CDATA[&lt;公众：雷]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001942?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:44 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:52 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[一种基于视觉的可变位姿约束工业机器人自校准方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001966?dgcid=rss_sd_all</link>
-      <description><![CDATA[选择]]></description>
+      <description><![CDATA[ 选择]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001966?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:43 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:50 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[用于智能制造中多移动机器人合作的通用系统]]></title>
+      <title><![CDATA[智能制造中多移动机器人协作的通用系统]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001930?dgcid=rss_sd_all</link>
       <description><![CDATA[&lt;发布：]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001930?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:41 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:48 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[CCM-FCC：以LLM为中心的以认知为中心的AI代理框架，用于主动的人类机器人协作]]></title>
+      <title><![CDATA[用于人机协作制造的混合现实辅助的以场景为中心的机器人编程方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002005?dgcid=rss_sd_all</link>
+      <description><![CDATA[实践：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002005?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CCM-FCC：基于 LLM 的以认知为中心的 AI 代理框架，用于主动人机协作]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001991?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月  来源：机器人技术和计算机集成制造，第98卷 作者：pengfei ding，jie zhang，peng peng peng peng peng peng peng zhang，peng zhang，hongsen li，hongsen li，dexian wang wang wang         ]]></description>
+      <description><![CDATA[出版日期：2026年4月来源：机器人与计算机集成制造，第98卷作者：丁鹏飞、张杰、张鹏、李宏森、王德贤]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001991?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:40 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:46 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[线激光传感器重载工业机器人手眼系统测量误差建模与补偿]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002091?dgcid=rss_sd_all</link>
       <description><![CDATA[&lt;公开：很少]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002091?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:39 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:44 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一种以现实现实辅助场景为中心的机器人编程方法，用于人类机器人协作制造]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002005?dgcid=rss_sd_all</link>
-      <description><![CDATA[实践：]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002005?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用相互作用意向过滤器和振动观察者同时具有高透明度和稳健面向稳定性的物理人类机器人相互作用]]></title>
+      <title><![CDATA[使用交互意图过滤器和振动观察器同时实现高透明度和鲁棒稳定性导向的物理人机交互]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002042?dgcid=rss_sd_all</link>
       <description><![CDATA[&lt;发布：]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002042?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:37 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:42 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[从感知到精度：基于视觉的移动机器人操作，用于装配螺丝]]></title>
+      <title><![CDATA[从感知到精确：用于装配螺丝拧紧的基于视觉的移动机器人操作]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002029?dgcid=rss_sd_all</link>
       <description><![CDATA[ 出版日期：2026 年 4 月    来源： 机器人技术和计算机集成制造，第 98 卷   作者：Alexander Stefanov、Miha Zorman、Sebastjan Šlajpah、Janez Podobnik]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002029?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:36 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:40 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过方法库和神经网络进行智能无支撑增材制造路径规划]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002108?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年4月来源：《机器人与计算机集成制造》第98卷作者：童正仁、徐来、李翔龙、杨晨、王勤峰、沉宏耀]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002108?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:35 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:38 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[VTLG：一种面向任务的视觉-触觉-语言抓取生成方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002066?dgcid=rss_sd_all</link>
       <description><![CDATA[机器人与镇定 Shuntor-Imorgan，第 98 卷 是的，陈刚]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002066?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:33 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:37 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[机器人合规性控制框架，用于磨碎表面未知的薄壁零件：变形和定向适应]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002017?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: April 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 98Author(s): Yuming Li, Zhihao Xu, Shufei Li, Zhaoyang Liao, Shuai Li, Xuefeng Zhou]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002017?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过未知的动态补偿来提高物理人体式相互作用的透明度]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002078?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月  来源：机器人和计算机集成制造，第98卷 作者：Seung Ho Lee，Dong Jun，Hyungpil Moon，Hyouk Ryeol Choi，Hyouk Ryeol Choi，Ja Choon Kooi Kooi，Ja Choon Koo ]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002078?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于物理的数字双胞胎应用的基于物理的仿真框架：用于木材工业中木材处理的机器参数调整]]></title>
+      <title><![CDATA[基于物理的数字孪生应用模拟框架：木材工业中木材处理的机器参数调整]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S073658452500198X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 4 月来源：《机器人技术和计算机集成制造》，第 98 卷作者：Francesco Berardinucci、Marco Rossoni、Giorgio Colombo、Marcello Urgo&lt;​​/p&gt;]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500198X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:30 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于磨削未知表面薄壁零件的机器人柔顺控制框架：变形和方向适应]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002017?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2026Source: Robotics and Computer-Integrated Manufacturing, Volume 98Author(s): Yuming Li, Zhihao Xu, Shufei Li, Zhaoyang Liao, Shuai Li, Xuefeng Zhou]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002017?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过未知动态补偿提高物理人机交互的透明度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002078?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：机器人与计算机集成制造，第 98 卷作者：Seung Ho Lee、Dong Jun Oh、Hyungpil Moon、Hyouk Ryeol Choi、Ja Choon Koo]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002078?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用大型语言模型的人机协作视觉检查]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452500208X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《机器人技术和计算机集成制造》，第 98 卷作者：Osama Tasneem、Roel Pieters]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500208X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[迈向工业环境中的零次机器人工具操作：通过多模式可供性表示增强的模块化 VLM 框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002157?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《机器人与计算机集成制造》第98卷作者：周奇、谷宇伟、李嘉文、冯博涵、李博彦、毕友毅]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002157?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[柔性作业车间固定型多机器人协同问题的高效调度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452500211X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：机器人与计算机集成制造，第98卷作者：黄金、李新宇、刘启豪、高亮]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500211X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 09 Oct 2025 03:26:32 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[可持续制造的人性化调度：工业 5.0 时代动态作业车间调度回顾]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525001978?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 4 月来源：《机器人技术和计算机集成制造》，第 98 卷作者：Hudaifah Hudaifah、Haitham Saleh、Anas Alghazi、Ahmet Kolus、Umar Alturki、Sami Elferik]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源：机器人与计算机集成制造，第 98 卷作者：Hudaifah Hudaifah、Haitham Saleh、Anas Alghazi、Ahmet Kolus、Umar Alturki、Sami Elferik]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525001978?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:29 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:31 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过强化学习进行数字孪生机械臂操控：一项综合调查]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002054?dgcid=rss_sd_all</link>
       <description><![CDATA[The Root-Inor-In 帅）：Yoncheen Zang、Jeiwu Leng、Jun Hong、Jun/p&gt;]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002054?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 08 Oct 2025 03:16:27 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 03:26:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
