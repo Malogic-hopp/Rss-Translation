@@ -1,37 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>AAAS：科学免疫学：目录</title>
+    <title>美国科学促进会：科学免疫学：目录</title>
     <link>https://www.science.org/loi/sciimmunol?af=R</link>
-    <description>科学免疫学目录。来自最新和印刷问题的文章清单。</description>
-    <lastBuildDate>Sat, 04 Oct 2025 03:16:46 GMT</lastBuildDate>
+    <description>科学免疫学目录。最新期和提前印刷期的文章列表。</description>
+    <lastBuildDate>Sat, 11 Oct 2025 03:13:05 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[瞄准自身免疫性 - 粘膜pemphigus的抗原-FC构建体达到了印记]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/sciimmunol.aec5745?af=R</link>
-      <description><![CDATA[科学免疫学，第10卷，第112期，2025年10月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.aec5745?af=R</guid>
-      <pubDate>Sat, 04 Oct 2025 03:16:45 GMT</pubDate>
+      <title><![CDATA[C. Hou 等人的研究文章“METTL1 介导的 Sarm1 mRNA m7G 甲基化促进巨噬细胞炎症反应和多器官损伤”的勘误。]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/sciimmunol.aec5738?af=R</link>
+      <description><![CDATA[《科学免疫学》，第 10 卷，第 112 期，2025 年 10 月。 ]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.aec5738?af=R</guid>
+      <pubDate>Sat, 11 Oct 2025 03:13:03 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[少数的功能：RORγT+树突状细胞促进食物特异性外围调节T细胞]]></title>
+      <title><![CDATA[少数人的力量：RORγt+ 树突状细胞促进食物特异性外周调节 T 细胞]]></title>
       <link>https://www.science.org/doi/abs/10.1126/sciimmunol.aec5741?af=R</link>
-      <description><![CDATA[科学免疫学，第10卷，第112期，2025年10月。]]></description>
+      <description><![CDATA[《科学免疫学》，第 10 卷，第 112 期，2025 年 10 月。 ]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.aec5741?af=R</guid>
-      <pubDate>Sat, 04 Oct 2025 03:16:44 GMT</pubDate>
+      <pubDate>Sat, 11 Oct 2025 03:13:02 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[疫苗接种引起的T细胞反应保持高抗原受体的多克隆性]]></title>
+      <title><![CDATA[瞄准自身免疫——针对粘膜天疱疮的抗原 Fc 构建体取得了成功]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/sciimmunol.aec5745?af=R</link>
+      <description><![CDATA[《科学免疫学》，第 10 卷，第 112 期，2025 年 10 月。 ]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.aec5745?af=R</guid>
+      <pubDate>Sat, 11 Oct 2025 03:13:02 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[疫苗诱导的 T 细胞反应维持具有高抗原受体亲合力的多克隆性]]></title>
       <link>https://www.science.org/doi/abs/10.1126/sciimmunol.adu6730?af=R</link>
-      <description><![CDATA[科学免疫学，第10卷，第112期，2025年10月。]]></description>
+      <description><![CDATA[《科学免疫学》，第 10 卷，第 112 期，2025 年 10 月。 ]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.adu6730?af=R</guid>
-      <pubDate>Sat, 04 Oct 2025 03:16:43 GMT</pubDate>
+      <pubDate>Sat, 11 Oct 2025 03:13:01 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[脑肿瘤的免疫学]]></title>
       <link>https://www.science.org/doi/abs/10.1126/sciimmunol.ads0449?af=R</link>
-      <description><![CDATA[科学免疫学，第10卷，第112期，2025年10月。]]></description>
+      <description><![CDATA[《科学免疫学》，第 10 卷，第 112 期，2025 年 10 月。 ]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.ads0449?af=R</guid>
-      <pubDate>Sat, 04 Oct 2025 03:16:43 GMT</pubDate>
+      <pubDate>Sat, 11 Oct 2025 03:13:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[生发中心介导的 B 细胞对 SARS-CoV-2 加强免疫反应的扩大]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/sciimmunol.adu4107?af=R</link>
+      <description><![CDATA[《科学免疫学》，第 10 卷，第 112 期，2025 年 10 月。 ]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.adu4107?af=R</guid>
+      <pubDate>Sat, 11 Oct 2025 03:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抑制性检查点 SIRPα 的顺式相互作用阻碍抗癌免疫反应]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/sciimmunol.adv5085?af=R</link>
+      <description><![CDATA[《科学免疫学》，第 10 卷，第 112 期，2025 年 10 月。 ]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/sciimmunol.adv5085?af=R</guid>
+      <pubDate>Sat, 11 Oct 2025 03:13:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
