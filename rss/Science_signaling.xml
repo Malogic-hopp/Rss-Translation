@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>AAAS：科学信号：目录</title>
+    <title>美国科学促进会：科学信号：目录</title>
     <link>https://www.science.org/loi/signaling?af=R</link>
     <description>科学信号目录。最新期和提前印刷期的文章列表。</description>
-    <lastBuildDate>Wed, 08 Oct 2025 03:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 03:29:38 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[异位刺猬信号轴驱动遗传多骨软骨瘤小鼠模型中的方向性肿瘤生长]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scisignal.adu6357?af=R</link>
-      <description><![CDATA[科学信号，第18卷，第907期，2025年10月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adu6357?af=R</guid>
-      <pubDate>Wed, 08 Oct 2025 03:22:44 GMT</pubDate>
+      <title><![CDATA[Senataxin 在抗原受体基因多样化过程中促进重组保真度]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scisignal.adv8801?af=R</link>
+      <description><![CDATA[科学信号，第 18 卷，第 908 期，2025 年 10 月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adv8801?af=R</guid>
+      <pubDate>Wed, 15 Oct 2025 03:29:36 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[RYR1 Ser2902 磷酸化可减少骨骼肌中的 Ca2+ 渗漏以及恶性高热和中暑的易感性]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scisignal.adx3087?af=R</link>
-      <description><![CDATA[科学信号，第18卷，第907期，2025年10月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adx3087?af=R</guid>
-      <pubDate>Wed, 08 Oct 2025 03:22:43 GMT</pubDate>
+      <title><![CDATA[STING 的半胱氨酸修饰]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scisignal.aec8984?af=R</link>
+      <description><![CDATA[科学信号，第 18 卷，第 908 期，2025 年 10 月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.aec8984?af=R</guid>
+      <pubDate>Wed, 15 Oct 2025 03:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[E3 泛素连接酶 ZNRF3 通过刺激 WNT 结合的 FZD 的选择性降解来限制 WNT 受体复合物的活性]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scisignal.adv1529?af=R</link>
+      <description><![CDATA[科学信号，第 18 卷，第 908 期，2025 年 10 月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scisignal.adv1529?af=R</guid>
+      <pubDate>Wed, 15 Oct 2025 03:29:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
