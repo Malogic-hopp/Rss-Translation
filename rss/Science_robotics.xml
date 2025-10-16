@@ -1,93 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>AAAS：科学机器人技术：目录</title>
+    <title>美国科学促进会：科学机器人：目录</title>
     <link>https://www.science.org/loi/scirobotics?af=R</link>
-    <description>科学机器人技术目录。来自最新和印刷问题的文章清单。</description>
-    <lastBuildDate>Thu, 25 Sep 2025 03:38:56 GMT</lastBuildDate>
+    <description>科学机器人目录。最新期和提前印刷期的文章列表。</description>
+    <lastBuildDate>Thu, 16 Oct 2025 03:36:21 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[低空飞行还是令人印象深刻的微型机器人？]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeb6685?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeb6685?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:54 GMT</pubDate>
+      <title><![CDATA[人工体现电路揭示了脊椎动物视觉运动行为的神经结构]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adv4408?af=R</link>
+      <description><![CDATA[《科学机器人》，第 10 卷，第 107 期，2025 年 10 月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adv4408?af=R</guid>
+      <pubDate>Thu, 16 Oct 2025 03:36:21 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有人工智能和机器人技术的自然科学实验室中的发现：观点和挑战]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adv7932?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adv7932?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过集体学习扩展机器人思维]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adv4049?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adv4049?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手臂假体具有灵巧的控制和感觉反馈，在Cybathlon中取得了胜利]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aea9377?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aea9377?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BCIT的野兽轮椅以功率，精确和飞行员为主导的设计搭配Cybathlon]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeb1340?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeb1340?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对机器人操作的基于学习的动态模型的综述]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adt1497?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adt1497?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[教育机器人如何改善家庭生活？通过仔细整合]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu6123?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu6123?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于无线机器人感应和操纵的微型磁磁通器]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu4851?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu4851?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人阅读伴侣可以减轻儿童的口服阅读焦虑]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu5771?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu5771?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[观察机器人同伴的失败有助于学生的课堂学习]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu5257?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu5257?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微型电子生物杂化机器人的光遗传学神经肌肉致动]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu5830?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu5830?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Roboballet：使用图神经网络和增强学习的多机器人计划计划]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.ads1204?af=R</link>
-      <description><![CDATA[科学机器人技术，第10卷，第106期，2025年。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.ads1204?af=R</guid>
-      <pubDate>Thu, 25 Sep 2025 03:38:43 GMT</pubDate>
+      <title><![CDATA[由投射光驱动的触觉显示器]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adv1383?af=R</link>
+      <description><![CDATA[《科学机器人》，第 10 卷，第 107 期，2025 年 10 月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adv1383?af=R</guid>
+      <pubDate>Thu, 16 Oct 2025 03:36:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
