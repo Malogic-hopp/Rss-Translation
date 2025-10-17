@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence 将发表有关机器学习、机器人和人工智能等广泛主题的高质量原创研究和评论。该杂志还将探讨和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，有无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话，包括评论、新闻特写、新闻和新闻。查看文章和通讯。</description>
-    <lastBuildDate>Thu, 16 Oct 2025 03:29:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 03:24:41 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[迈向可重复的机器人研究]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01114-7</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 9 月 23 日； doi:10.1038/s42256-025-01114-7迈向可重复的机器人研究]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01114-7</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器学习模型中的误差控制非加性交互发现]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01086-8</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 9 月 22 日； doi:10.1038/s42256-025-01086-8Diamond 是一种统计上严格的方法，能够在机器学习模型中找到有意义的特征交互，使黑盒模型更易于科学和医学解释。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01086-8</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用稀疏去噪模型高效生成蛋白质结构]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01100-z</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 9 月 24 日； doi:10.1038/s42256-025-01100-z提出了一种小型且快速的扩散模型，能够有效地生成长蛋白质主链。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01100-z</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过诱变加速蛋白质设计的集成框架]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01118-3</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 9 月 29 日； doi:10.1038/s42256-025-01118-3通过诱变设计和优化蛋白质面临着巨大的可能变异空间。最近的一项研究开发了 µProtein，这是一种强化学习模型，与蛋白质语言模型相结合作为替代预言机，以加速这一向高功能蛋白质迈进的过程。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01118-3</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:48 GMT</pubDate>
+      <title><![CDATA[重新思考人类在人工智能战争中的角色]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01123-6</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 13 日； doi:10.1038/s42256-025-01123-6大多数旨在管理人工智能（AI）武器风险的政策提案在很大程度上依赖于有意义的人类控制或适当的人类判断 风险缓解。该评论认为，人类可以通过多种方式对人工智能进行控制，并且对这些方法进行仔细的分类对于为作战人工智能制定可操作的风险缓解政策是必要的。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01123-6</guid>
+      <pubDate>Fri, 17 Oct 2025 03:24:41 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[道路损坏检测挑战系列（2018-2024）的见解]]></title>
       <link>https://www.nature.com/articles/s42256-025-01132-5</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 13 日； doi:10.1038/s42256-025-01132-5组织者反思了多年、多国基准如何将道路损坏检测方面的人工智能研究与实际和区域限制相结合， 引导其走向部署相关性。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01132-5</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:47 GMT</pubDate>
+      <pubDate>Fri, 17 Oct 2025 03:24:41 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[设计活性人源化抗体和纳米抗体的自适应自回归扩散方法]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01120-9</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 1 日； doi:10.1038/s42256-025-01120-9马健等人。 HuDiff 是一种基于扩散的深度学习框架，无需模板即可人性化抗体和纳米抗体（一种小型抗体）。该模型在保留或增强结合强度的同时实现了人性的改善，作者在病毒中和实验中显示出了有希望的结果。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01120-9</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重新思考人类在人工智能战争中的角色]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01123-6</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 13 日； doi:10.1038/s42256-025-01123-6大多数旨在管理人工智能（AI）武器风险的政策提案在很大程度上依赖于有意义的人类控制或适当的人类判断 风险缓解。该评论认为，人类可以通过多种方式对人工智能进行控制，并且对这些方法进行仔细的分类对于为作战人工智能制定可操作的风险缓解政策是必要的。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01123-6</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:45 GMT</pubDate>
+      <title><![CDATA[用于晶体材料中原子输运加速模拟的流动匹配]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01125-4</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 16 日； doi:10.1038/s42256-025-01125-4开发了一种加速晶体固体中原子输运模拟的生成框架，从而实现大规模筛选和扩展模拟 到更大的时空尺度的储能材料。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01125-4</guid>
+      <pubDate>Fri, 17 Oct 2025 03:24:40 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[空间物理的神经符号模型]]></title>
       <link>https://www.nature.com/articles/s42256-025-01126-3</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 15 日； doi:10.1038/s42256-025-01126-3Ying 和同事提出了 PhyE2E，这是一种人工智能框架，结合了符号搜索技术，可直接从数据中发现物理公式。例如，与 NASA 1993 年的太阳活动公式相比，该方法已经改进了空间物理模型。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01126-3</guid>
-      <pubDate>Thu, 16 Oct 2025 03:29:43 GMT</pubDate>
+      <pubDate>Fri, 17 Oct 2025 03:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[预测抗体和 T 细胞受体互补决定区的构象灵活性]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01131-6</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 16 日； doi:10.1038/s42256-025-01131-6ALL-conformations，一个数据集，捕获 CDR 环、T 细胞和抗体区域相互作用的全部实验观察到的构象 介绍了抗原靶点。 ITsFlexible——一种在这个新数据集上训练的深度学习工具——可以推进对免疫受体结构动力学的预测。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01131-6</guid>
+      <pubDate>Fri, 17 Oct 2025 03:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基金会模型的可接受使用政策忽视了环境和自然]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01134-3</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 16 日； doi:10.1038/s42256-025-01134-3基金会模型的可接受使用政策忽视了环境和自然]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01134-3</guid>
+      <pubDate>Fri, 17 Oct 2025 03:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[对大语言模型使用反对学术界语言不公正的谨慎乐观看法]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01138-z</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 16 日； doi:10.1038/s42256-025-01138-z对大语言模型使用反对学术界语言不公正的谨慎乐观看法]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01138-z</guid>
+      <pubDate>Fri, 17 Oct 2025 03:24:37 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[学习免疫受体的构象灵活性]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01133-4</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 16 日；尽管可以使用深度学习模型从测序数据预测静态蛋白质构象，但蛋白质并不是静态生化制品。 itsFlexible 是一种基于图的深度学习工具，在实验捕获的蛋白质基序构象的新数据集上进行训练，以对蛋白质的动态特征进行分类。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01133-4</guid>
+      <pubDate>Fri, 17 Oct 2025 03:24:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
