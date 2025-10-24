@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence 将发表有关机器学习、机器人和人工智能等广泛主题的高质量原创研究和评论。该杂志还将探讨和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，有无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话，包括评论、新闻特写、新闻和新闻。查看文章和通讯。</description>
-    <lastBuildDate>Wed, 22 Oct 2025 03:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 03:23:35 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[学习免疫受体的构象灵活性]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01133-4</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 16 日；尽管可以使用深度学习模型从测序数据预测静态蛋白质构象，但蛋白质并不是静态生化制品。 itsFlexible 是一种基于图的深度学习工具，在实验捕获的蛋白质基序构象的新数据集上进行训练，以对蛋白质的动态特征进行分类。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01133-4</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:38 GMT</pubDate>
+      <title><![CDATA[通过提供激励和实践来克服人工神经网络的经典挑战]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01121-8</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 20 日； doi:10.1038/s42256-025-01121-8Irie 和 Lake 提出了一个元学习框架，该框架使人工神经网络能够通过提供提高特定能力的激励措施和机会来应对经典挑战。 练习它们。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01121-8</guid>
+      <pubDate>Fri, 24 Oct 2025 03:23:35 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[单单元激活为认知任务的紧急电路解决方案赋予归纳偏差]]></title>
       <link>https://www.nature.com/articles/s42256-025-01127-2</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 20 日； doi:10.1038/s42256-025-01127-2循环神经网络广泛用于模拟大脑动力学。托尔马切夫和恩格尔表明，单单元激活函数会影响训练网络中出现的任务解决方案，从而提出了哪种设计选择最符合生物学的问题。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01127-2</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过提供激励和实践来克服人工神经网络的经典挑战]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01121-8</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 20 日； doi:10.1038/s42256-025-01121-8Irie 和 Lake 提出了一个元学习框架，该框架使人工神经网络能够通过提供提高特定能力的激励措施和机会来应对经典挑战。 练习它们。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01121-8</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[迈向超越视觉和语言的以部署为中心的多模式人工智能]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01116-5</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01116-5多模态人工智能结合不同类型的数据来改善医疗保健和工程等领域的决策，但迄今为止的工作主要集中在视觉和语言上 模型。为了使这些系统在现实世界中更可用，Liu 等人。与相关学科的专家密切合作，讨论从一开始就考虑到部署的方法的必要性。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01116-5</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:35 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 03:23:35 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[具有可扩展且可解释的模型解释器的协作多视图集成]]></title>
       <link>https://www.nature.com/articles/s42256-025-01111-w</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01111-wChoi 等人。引入一种机器学习模型，该模型集成了不同的多视图数据来预测疾病表型。该模型包括一个可解释的解释器，可以识别相互作用的生物特征，例如与阿尔茨海默病相关的星形胶质细胞和小胶质细胞中的协同基因。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01111-w</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:34 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 03:23:34 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[采用关键切割机方法进行定制的结构化肽设计]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01119-2</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01119-2正在开发用于设计生物大分子的强大生成式人工智能模型，并应用于医学、生物技术和材料科学，但这些模型的成本昂贵 训练和修改。莱瓦等人。介绍 Key-Cutting Machine，这是一个基于优化的蛋白质和肽平台，可迭代地利用结构预测来匹配所需的主链几何形状。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01119-2</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:33 GMT</pubDate>
+      <title><![CDATA[迈向超越视觉和语言的以部署为中心的多模式人工智能]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01116-5</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01116-5多模态人工智能结合不同类型的数据来改善医疗保健和工程等领域的决策，但迄今为止的工作主要集中在视觉和语言上 模型。为了使这些系统在现实世界中更可用，Liu 等人。与相关学科的专家密切合作，讨论从一开始就考虑到部署的方法的必要性。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01116-5</guid>
+      <pubDate>Fri, 24 Oct 2025 03:23:34 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[解决数据偏差可提高结合亲和力预测的泛化能力]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01124-5</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01124-5Graber 等人。描述蛋白质-配体数据集中的偏差和数据泄漏，并表明干净过滤的训练-测试分割可以提高结合亲和力预测任务的泛化能力。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01124-5</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:33 GMT</pubDate>
+      <title><![CDATA[用于对蛋白质-肽复合物进行评分的交互衍生图学习框架]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01136-1</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 23 日； doi:10.1038/s42256-025-01136-1GraphPep 提出了一种基于相互作用和蛋白质语言模型的图学习框架，用于对蛋白质-肽复合物进行稳健评分，从而大大增强了 蛋白质-肽对接的结合模式预测。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01136-1</guid>
+      <pubDate>Fri, 24 Oct 2025 03:23:33 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[神经网络表示是通用的还是特殊的？]]></title>
       <link>https://www.nature.com/articles/s42256-025-01139-y</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01139-y关于神经网络是否学习通用表示或模型特定表示的问题在 2025 年 8 月的认知计算神经科学会议上举办了一场社区活动，强调了未来 NeuroAI 基本主题的方向。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01139-y</guid>
-      <pubDate>Wed, 22 Oct 2025 03:37:32 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 03:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[采用关键切割机方法进行定制的结构化肽设计]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01119-2</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01119-2正在开发用于设计生物大分子的强大生成式人工智能模型，并应用于医学、生物技术和材料科学，但这些模型的成本昂贵 训练和修改。莱瓦等人。介绍 Key-Cutting Machine，这是一个基于优化的蛋白质和肽平台，可迭代地利用结构预测来匹配所需的主链几何形状。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01119-2</guid>
+      <pubDate>Fri, 24 Oct 2025 03:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[解决数据偏差可提高结合亲和力预测的泛化能力]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01124-5</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01124-5Graber 等人。描述蛋白质-配体数据集中的偏差和数据泄漏，并表明干净过滤的训练-测试分割可以提高结合亲和力预测任务的泛化能力。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01124-5</guid>
+      <pubDate>Fri, 24 Oct 2025 03:23:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
