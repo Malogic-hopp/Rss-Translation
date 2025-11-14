@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence 将发表有关机器学习、机器人和人工智能等广泛主题的高质量原创研究和评论。该杂志还将探讨和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，有无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话，包括评论、新闻特写、新闻和新闻。查看文章和通讯。</description>
-    <lastBuildDate>Fri, 07 Nov 2025 03:36:09 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[解决数据偏差可提高结合亲和力预测的泛化能力]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01124-5</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01124-5Graber 等人。描述蛋白质-配体数据集中的偏差和数据泄漏，并表明干净过滤的训练-测试分割可以提高结合亲和力预测任务的泛化能力。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01124-5</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[采用关键切割机方法进行定制的结构化肽设计]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01119-2</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01119-2用于设计生物大分子的强大的生成式人工智能模型正在开发中，并应用于医学、生物技术和材料科学，但这些模型的训练和修改成本高昂。莱瓦等人。介绍 Key-Cutting Machine，这是一个基于优化的蛋白质和肽平台，可迭代地利用结构预测来匹配所需的主链几何形状。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01119-2</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[神经网络表示是通用的还是特殊的？]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01139-y</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 21 日； doi:10.1038/s42256-025-01139-y关于神经网络是否学习通用表示或模型特定表示的问题在 2025 年 8 月的认知计算神经科学会议上举办了一场社区活动，强调了这一基本主题的未来方向在神经人工智能领域。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01139-y</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:06 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 03:35:40 GMT</lastBuildDate>
     <item>
       <title><![CDATA[随波逐流加速分子动力学]]></title>
       <link>https://www.nature.com/articles/s42256-025-01129-0</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 24 日； doi:10.1038/s42256-025-01129-0分子动力学 (MD) 模拟广泛用于理解原子运动，但需要大量的计算时间。在 Nam 等人的新研究中，开发了一种生成人工智能框架，通过将任务重新定义为原子位移的条件生成，来加速晶体材料的 MD 模拟。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01129-0</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于对蛋白质-肽复合物进行评分的交互衍生图学习框架]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01136-1</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 10 月 23 日； doi:10.1038/s42256-025-01136-1GraphPep 提出了一种基于相互作用和蛋白质语言模型的图学习框架，用于对蛋白质-肽复合物进行稳健评分，从而大大增强了蛋白质-肽对接的结合模式预测。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01136-1</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:05 GMT</pubDate>
+      <pubDate>Fri, 14 Nov 2025 03:35:39 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[语言模型无法可靠地区分信念、知识和事实]]></title>
       <link>https://www.nature.com/articles/s42256-025-01113-8</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 3 日； doi:10.1038/s42256-025-01113-8Suzgun 等人。发现当前的大型语言模型无法可靠地区分信仰、知识和事实，这引起了人们对其在医疗保健、法律和新闻领域的使用的担忧，因为这种区分至关重要。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01113-8</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:04 GMT</pubDate>
+      <pubDate>Fri, 14 Nov 2025 03:35:34 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[LLMS的致密定律]]></title>
       <link>https://www.nature.com/articles/s42256-025-01137-0</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 6 日； doi:10.1038/s42256-025-01137-0肖等人。引入“能力密度”，定义为每个参数的能力，作为评估大型语言模型的指标。他们报告了一个经验趋势，即“致密定律”，该定律指出，能力密度大约每 3.5 个月翻一番，这表明随着时间的推移，可以用指数级更少的参数实现等效的模型性能。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01137-0</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:03 GMT</pubDate>
+      <pubDate>Fri, 14 Nov 2025 03:35:32 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[模拟类人自适应视觉，实现高效灵活的机器视觉感知]]></title>
       <link>https://www.nature.com/articles/s42256-025-01130-7</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 6 日； doi:10.1038/s42256-025-01130-7深度学习方法 AdaptiveNN 将机器视觉模型从被动转变为主动，以模仿人类的感知。该方法在不损失准确性的情况下将推理成本降低了 28 倍，同时展示了在线适应和可解释的行为。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01130-7</guid>
-      <pubDate>Fri, 07 Nov 2025 03:36:01 GMT</pubDate>
+      <pubDate>Fri, 14 Nov 2025 03:35:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[解决神经形态硬件上的稀疏有限元问题]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01143-2</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 13 日； doi:10.1038/s42256-025-01143-2Theilman 和 Aimone 介绍了一种用于在大规模神经拟态计算机上求解偏微分方程的原生尖峰算法，并在英特尔的 Loihi 2 神经拟态研究上演示了该算法芯片。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01143-2</guid>
+      <pubDate>Fri, 14 Nov 2025 03:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[卷积架构是从头开始与皮质对齐的]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01142-3</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 13 日； doi:10.1038/s42256-025-01142-3Kazemian 等人。报告称，未经训练的宽层卷积网络几乎可以像任务优化网络一样预测灵长类动物视觉皮层的反应，揭示了架构约束如何在深层网络中塑造类似大脑的表示。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01142-3</guid>
+      <pubDate>Fri, 14 Nov 2025 03:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[南亚人在语言和视觉模型上的偏见]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01144-1</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 13 日； doi:10.1038/s42256-025-01144-1人工智能模型的偏见主要通过西方视角进行研究，忽视了南亚独特的种姓、宗教、肤色和代表性背景。该评论强调了语言和视觉模型中特定区域的偏见，并呼吁建立基于南亚现实的公平框架。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01144-1</guid>
+      <pubDate>Fri, 14 Nov 2025 03:35:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大型语言模型仍然与错误信念作斗争]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01145-0</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 13 日； doi:10.1038/s42256-025-01145-0新的基准 KaBLE（知识和信念语言评估）表明，一些大型语言模型无法准确地区分信念与知识和事实，这使人们对它们在医学等实际应用中的使用产生疑问。法。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01145-0</guid>
+      <pubDate>Fri, 14 Nov 2025 03:35:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
