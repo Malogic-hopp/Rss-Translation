@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence 将发表有关机器学习、机器人和人工智能等广泛主题的高质量原创研究和评论。该杂志还将探讨和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，有无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话，包括评论、新闻特写、新闻和新闻。查看文章和通讯。</description>
-    <lastBuildDate>Wed, 10 Dec 2025 03:50:46 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[基于伪数据的分子结构生成器揭示未知化学物质]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01140-5</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 14 日； doi:10.1038/s42256-025-01140-5Yu 和同事展示了 MSGo，这是一种经过掩蔽虚拟质谱训练的人工智能暴露组学工具，可通过生成与测量的光谱数据相匹配的化学结构来识别污染物。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01140-5</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:44 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 03:49:51 GMT</lastBuildDate>
     <item>
       <title><![CDATA[可重用性报告：用超图神经网络解决组合优化问题的分布式策略]]></title>
       <link>https://www.nature.com/articles/s42256-025-01141-4</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 19 日； doi:10.1038/s42256-025-01141-4HypOp 是一种解决复杂组合问题的可扩展方法。这项研究重现了其结果，测试了其稳健性，将其扩展到新任务，并为更广泛的科学应用提供了实用指南。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01141-4</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[血细胞形态的深度生成分类]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01122-7</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 19 日； doi:10.1038/s42256-025-01122-7通过开发生成血细胞分类器来重新构建扩散模型，该分类器在低数据状态下可靠地执行，适应域变化，鲁棒性地检测异常并提供不确定性估计超越临床专家基准。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01122-7</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:42 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 03:49:50 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[神经科学可以告诉人工智能如何在不断变化的环境中学习]]></title>
       <link>https://www.nature.com/articles/s42256-025-01146-z</link>
       <description><![CDATA[《自然·机器智能》，在线发布：2025 年 11 月 28 日； doi:10.1038/s42256-025-01146-zDurstewitz 等人。探索人工智能可以从大脑快速适应不断变化的环境的能力中学到什么。通过将灵活行为的神经科学研究与持续学习和情境学习的进步联系起来，本视角概述了加强两个领域之间的思想交流和推进 NeuroAI 的方法。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01146-z</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:40 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 03:49:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[血细胞形态的深度生成分类]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01122-7</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 11 月 19 日； doi:10.1038/s42256-025-01122-7通过开发生成血细胞分类器来重新构建扩散模型，该分类器在低数据状态下可靠地执行，适应域变化，鲁棒性地检测异常并提供不确定性估计超越临床专家基准。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01122-7</guid>
+      <pubDate>Thu, 11 Dec 2025 03:49:49 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过同态加密增强人工智能的安全深度强化学习能力]]></title>
       <link>https://www.nature.com/articles/s42256-025-01135-2</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 1 日； doi:10.1038/s42256-025-01135-2引入安全人工智能框架，利用同态加密保护深度强化学习中的敏感信息，实现准确决策，保证数据隐私和机密性。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01135-2</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:38 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 03:49:48 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[结构作为大脑模型对齐的归纳偏差]]></title>
       <link>https://www.nature.com/articles/s42256-025-01155-y</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 4 日；即使在训练之前，卷积神经网络也可能反映大脑的视觉处理原理。现在的一项研究表明，结构本身如何有助于解释大脑和模型之间的一致性。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01155-y</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:36 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 03:49:47 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[具有模仿基于奖励的学习的模拟忆阻器的演员评论家网络]]></title>
       <link>https://www.nature.com/articles/s42256-025-01149-w</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 9 日； doi:10.1038/s42256-025-01149-w一个基于行动者批评家时间差异学习的框架，并采用生物学上合理的网络架构，模仿忆阻器上基于奖励的学习，并为导航任务提供完整的内存训练讨论过。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01149-w</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:35 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 03:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于液体活检应用的多模式无细胞 RNA 语言模型]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01148-x</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 10 日； doi:10.1038/s42256-025-01148-xExai-1是一种无细胞RNA基础模型，它集成了序列、结构和表达特征，通过对噪声数据进行去噪、扩充有限数据集和提高液体活检诊断的普遍性来推进液体活检诊断癌症检测模型。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01148-x</guid>
+      <pubDate>Thu, 11 Dec 2025 03:49:45 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[使用忆阻器的全模拟强化学习]]></title>
       <link>https://www.nature.com/articles/s42256-025-01157-w</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 9 日； doi:10.1038/s42256-025-01157-w强化学习在人工智能 (AI) 中发挥着关键作用，但其在神经形态硬件上的实现通常涉及在传统数字计算机上执行的操作。现在的一项研究通过使用模拟忆阻器在硬件中完全实现演员-评论家网络来解决这个问题。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01157-w</guid>
-      <pubDate>Wed, 10 Dec 2025 03:50:34 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 03:49:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
