@@ -4,356 +4,356 @@
     <title>ScienceDirect 出版物：基于知识的系统</title>
     <link>https://www.sciencedirect.com/journal/knowledge-based-systems</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Fri, 12 Dec 2025 03:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 03:42:19 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[基于地标的图卷积神经网络用于可解释的导管错位检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020313?dgcid=rss_sd_all</link>
-      <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：yuhan wang，lamb]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020313?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Balancer：通过对比学习进行新颖事件推理的时间知识图嵌入]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020222?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Zhenyu、bo qu、cong li]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020222?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:26 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ADCNet：用于遥感变化检测的自适应双域协作网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019665?dgcid=rss_sd_all</link>
-      <description><![CDATA[p&gt;出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：Imei Tong、盼盼郑、无论唐、Lijun ng&lt;/p。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019665?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用全景牙科射线照片和二值化简单卷积神经网络方法增强法医人体识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020362?dgcid=rss_sd_all</link>
-      <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源：基于知识的系统，第 333 卷作者（S）：n pawade、deep b tras、vaishub gp pawas Patil]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020362?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RDAM：小样本和类不平衡样本下的域适应]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019471?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：付友泉、黄松、冯志熙、马跃]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019471?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于稳健航空多视图立体的分层注意力和动态一致性过滤]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020118?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：Lina Wang、Jiayu Zhu、Ziqing Wang、Shuheng Liu、Jiangfeng She]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020118?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于多级隐式特征增强和存在区域掩模引导的高效小目标检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020581?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：王润石、杨金福、李民爱、郝德臣]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020581?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:13 GMT</pubDate>
+      <title><![CDATA[Mamba2Diff：机器人长视野动作建模中目标条件模仿学习的增强扩散框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020283?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：赵广鹏、刘泉、邓武鹏、胡继伟]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020283?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:18 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[CoxSE：利用 Cox 比例风险模型探索自解释神经网络用于生存分析的潜力]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020349?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：Abdallah Alabdallah、Omar Hamed、Mattias Ohlsson、Thorsteinn Rögnvaldsson、Sepideh Pashami]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020349?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:12 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:18 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[Mamba2Diff：机器人长视野动作建模中目标条件模仿学习的增强扩散框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020283?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：赵广鹏、刘泉、邓武鹏、胡继伟]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020283?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:11 GMT</pubDate>
+      <title><![CDATA[基于多级隐式特征增强和存在区域掩模引导的高效小目标检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020581?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：王润石、杨金福、李民爱、郝德臣]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020581?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:18 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[走向战略说服：揭示用户对对话中说服策略的敏感性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020374?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Yida Chen, Bo Liu, Mingrui Hu, Mingjie Dai, Jiuxin Cao, Hantao Zhao]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020374?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TempQA：基于 LLM 的时间知识图问答框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095070512502026X?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：胡千一、屠新辉、李敖、姚彪]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502026X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:08 GMT</pubDate>
+      <title><![CDATA[用于稳健航空多视图立体的分层注意力和动态一致性过滤]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020118?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：Lina Wang、Jiayu Zhu、Ziqing Wang、Shuheng Liu、Jiangfeng She]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020118?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:18 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[因果推理遇到启发式策略：通过微调和知识交互增强 RAG]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020143?dgcid=rss_sd_all</link>
       <description><![CDATA[p&gt;出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：xun Luo、yuzhong、yanhao tu、orju Qi&lt;/ju Qi&lt;/Ju&lt;/Ju&lt;/Ju&lt;/c&lt;/p.]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020143?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:06 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:16 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[图解法学硕士促进变电站防洪供需推理]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020428?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：楼兰、柯宣华、刘世健、赵彩龙、彭佳]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020428?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:04 GMT</pubDate>
+      <title><![CDATA[TempQA：基于 LLM 的时间知识图问答框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095070512502026X?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：胡千一、屠新辉、李敖、姚彪]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502026X?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:16 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有近感知注意力的解耦行人轨迹预测网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019513?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：何真真、甘晓荣、陈紫阳、吴亚波、张勇军、李文婷]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019513?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于长期视觉位置识别的参数高效的图像到视频迁移学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020593?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Qilong Wu, Lin Li, Haihong Zhu, Peiwen Yao, Xinmei Wu, Yining Cui, Wei Zhu, Yukun Wu]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020593?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:01 GMT</pubDate>
+      <title><![CDATA[走向战略说服：揭示用户对对话中说服策略的敏感性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020374?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Yida Chen, Bo Liu, Mingrui Hu, Mingjie Dai, Jiuxin Cao, Hantao Zhao]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020374?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:16 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于多模态异常检测的伪知识驱动和轻量级逆蒸馏]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125019689?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：蔡文业、李佳音、徐立、林仁杰]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019689?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:57:00 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于长期视觉位置识别的参数高效的图像到视频迁移学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020593?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Qilong Wu, Lin Li, Haihong Zhu, Peiwen Yao, Xinmei Wu, Yining Cui, Wei Zhu, Yukun Wu]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020593?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有近感知注意力的解耦行人轨迹预测网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019513?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：何真真、甘晓荣、陈紫阳、吴亚波、张勇军、李文婷]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019513?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[图解法学硕士促进变电站防洪供需推理]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020428?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：楼兰、柯宣华、刘世健、赵彩龙、彭佳]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020428?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:15 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[使用双师知识蒸馏实现可靠的图像超分辨率]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125018817?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 1 月 30 日来源： Knowledge-Based Systems，第 333 卷作者：Zhan Li、Weijun Yuan、Boyang Yao、Yihang Chen、Bir Bhanu、Kehuan Zhang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125018817?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用动态阈值和嵌入拒绝进行开放集泛化的基于深度学习的雷达指纹]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020854?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 1 月 30 日来源： Knowledge-Based Systems，第 333 卷作者：Asim Saleem、Guoyun Lv、Safa Hussein Mohammed]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020854?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[<strong>LCMC攻击</strong>：用于视觉对象跟踪的局部跨模式协作黑盒对抗攻击]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095070512502057X?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：杜宇、夏辉、苏初晓、张锐、李鼎]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502057X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:56 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:14 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[SCoRE：使用多标签对比学习和贝叶斯 kNN 简化基于语料库的关系提取]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020623?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Luca Mariotti、Veronica Guidetti、Federica Mandreoli]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020623?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:55 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:13 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[用于时间序列分析的有序聚合多储层计算]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020866?dgcid=rss_sd_all</link>
-      <description><![CDATA[&lt;公众：1 月 30 日]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020866?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:54 GMT</pubDate>
+      <title><![CDATA[<strong>LCMC攻击</strong>：用于视觉对象跟踪的局部跨模式协作黑盒对抗攻击]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095070512502057X?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：杜宇、夏辉、苏初晓、张锐、李鼎]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502057X?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用动态阈值和嵌入拒绝进行开放集泛化的基于深度学习的雷达指纹]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020854?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 1 月 30 日来源： Knowledge-Based Systems，第 333 卷作者：Asim Saleem、Guoyun Lv、Safa Hussein Mohammed]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020854?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:13 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[本地差分隐私下的分布式聚类]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020325?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：付南、王进、徐亚欣、倪薇薇、侯立和、张冬月、杨阳]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020325?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:51 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:12 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[预测站点级别的短期自行车共享需求：基于多任务动态图的时空方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020246?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者（S）：Shayan njadshamamsi、Jamal Advantage、Chun Wang、ursula euver]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020246?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:49 GMT</pubDate>
+      <title><![CDATA[用于时间序列分析的有序聚合多储层计算]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020866?dgcid=rss_sd_all</link>
+      <description><![CDATA[&lt;公众：1 月 30 日]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020866?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:12 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[ORONER：代表组织间网络弹性的本体论。自适应网络重新配置的构建模块]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020398?dgcid=rss_sd_all</link>
       <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源：基于知识的系统，第 333 卷作者：Marisel Olivares Amaro、Mohamed Ayoub Laouno、Éric Saux。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020398?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:46 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[预测站点级别的短期自行车共享需求：基于多任务动态图的时空方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020246?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者（S）：Shayan njadshamamsi、Jamal Advantage、Chun Wang、ursula euver]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020246?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:10 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过动态注意力负载平衡加速大型语言模型的长上下文推理]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020568?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 1 月 30 日来源： Knowledge-Based Systems，第 333 卷作者：欧杰、郭金宇、蒋帅宏、徐力、薛瑞妮、田文宏、Rajkumar Buyya]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020568?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[根据六个步幅描述符估计下肢关节运动学的方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020714?dgcid=rss_sd_all</link>
-      <description><![CDATA[公开日期：2026 年 1 月 30 日来源： Crowlet 系统，第 333 卷s）：Estela Sánchez-Carballo、Francisco Manuel Melgarejo-MEESE-MEESEBRA。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020714?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:42 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:09 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[WaveState：具有类自适应时频特征的并行选择性状态空间注意模型，用于多元时间序列分类]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020520?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：李龙、陈望虎、李静]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020520?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:40 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:08 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[APKGC：用于知识图补全的自适应和快速调整框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019884?dgcid=rss_sd_all</link>
-      <description><![CDATA[p&gt;出版日期：2026 年 1 月 30 日来源：基于知识的系统，第 333 卷作者（S）：Aishan Maoriniyazi、Chaohong Ma、Xiaofeng Menhor。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019884?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:38 GMT</pubDate>
+      <title><![CDATA[根据六个步幅描述符估计下肢关节运动学的方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020714?dgcid=rss_sd_all</link>
+      <description><![CDATA[公开日期：2026 年 1 月 30 日来源： Crowlet 系统，第 333 卷s）：Estela Sánchez-Carballo、Francisco Manuel Melgarejo-MEESE-MEESEBRA。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020714?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:08 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[球场到对话：通过计算机视觉和 RAG 增强型法学硕士进行战术羽毛球分析]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020659?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：Kriti Bharadwaj、Gowri Srinivasa]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020659?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:35 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:07 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[FedPAD：具有基于原型的自适应蒸馏的无聚合联合学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019896?dgcid=rss_sd_all</link>
-      <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Kayan Zhao、Steve Drew、Xiaoguang]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019896?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于多特征注意力融合的鲁棒判别性3D点云零水印方案]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020209?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Hao Zhang, Zhifei Zhang, Xiyao Liu, Songrui Guo, Chunming Gao, Ming Jiang]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020209?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:33 GMT</pubDate>
+      <title><![CDATA[APKGC：用于知识图补全的自适应和快速调整框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019884?dgcid=rss_sd_all</link>
+      <description><![CDATA[p&gt;出版日期：2026 年 1 月 30 日来源：基于知识的系统，第 333 卷作者（S）：Aishan Maoriniyazi、Chaohong Ma、Xiaofeng Menhor。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019884?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:07 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[针对不平衡数据的半监督局部熵衰减过采样]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020477?dgcid=rss_sd_all</link>
       <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：liangliang man、qingya wang、faqiang wang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020477?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:30 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:06 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[使用基于循环神经网络的模型进行私人船只的碰撞路线检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095070512502012X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：Lucija Žužić、Franko Hržić、Jonatan Lerga]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502012X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:27 GMT</pubDate>
+      <title><![CDATA[FedPAD：具有基于原型的自适应蒸馏的无聚合联合学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125019896?dgcid=rss_sd_all</link>
+      <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Kayan Zhao、Steve Drew、Xiaoguang]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125019896?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于多特征注意力融合的鲁棒判别性3D点云零水印方案]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020209?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Hao Zhang, Zhifei Zhang, Xiyao Liu, Songrui Guo, Chunming Gao, Ming Jiang]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020209?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:06 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[使用农业环境数据进行多作物适宜性分类的可解释混合模糊机器学习框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020465?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：Muhammad Akram、Irum Batool、Cengiz Kahraman]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020465?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:25 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:05 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[自动编码器辅助图卷积网络集成多视图和多尺度以改进空间域识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020271?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：王娟、梁雪娜、袁莎莎、刘金星、商俊良]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020271?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:24 GMT</pubDate>
+      <title><![CDATA[使用基于循环神经网络的模型进行私人船只的碰撞路线检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095070512502012X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：Lucija Žužić、Franko Hržić、Jonatan Lerga]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502012X?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:05 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[SparseLight：动态梯度优化的 softmax，可实现高效的变压器加速]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S095070512502088X?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Kai Zhang, Chaoxiang Lan, Yazhang Xu, Zheyang Li, Wenming Tan, Ye Ren, Jilin Hu]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502088X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:23 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:04 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[MPN：多任务提议网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020702?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Xiaoming Chen, Zhangyan Zhao, Jingjing Cao, Yuhang Zou, Qiangwei Zhao, Haipeng Liu]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020702?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ERN：图像超分辨率扩散模型的边缘重建网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020544?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：徐云阳、方乐欣、李雪梅、张才明]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020544?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:21 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DiR-Net：用于跨模式 3D 对象检测的诊断和迭代校正网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020611?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月30日来源：知识基础系统，第333卷作者（S）：张妙慧、王爽、辛明]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020611?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:20 GMT</pubDate>
+      <title><![CDATA[自动编码器辅助图卷积网络集成多视图和多尺度以改进空间域识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020271?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：王娟、梁雪娜、袁莎莎、刘金星、商俊良]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020271?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:04 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过多智能体检索增强生成的关系推理图像描述]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020155?dgcid=rss_sd_all</link>
       <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Aiwen jwang, chaong, ming]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020155?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:18 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:03 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有自适应标记选择和特征增强的轻量级图像超分辨率网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020933?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：黄德天、林明欣、甘新伟、戴銮元、曾焕强]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020933?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:15 GMT</pubDate>
+      <title><![CDATA[DiR-Net：用于跨模式 3D 对象检测的诊断和迭代校正网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020611?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年1月30日来源：知识基础系统，第333卷作者（S）：张妙慧、王爽、辛明]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020611?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:03 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ERN：图像超分辨率扩散模型的边缘重建网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020544?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：徐云阳、方乐欣、李雪梅、张才明]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020544?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:03 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MPN：多任务提议网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020702?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Xiaoming Chen, Zhangyan Zhao, Jingjing Cao, Yuhang Zou, Qiangwei Zhao, Haipeng Liu]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020702?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:03 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[具有自监督潜在表征学习的两阶段手语生成框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020179?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Qiguang Miao, Guanwen Feng, Junwei Jing, Yilin Zhang, An Liu, Yunan Li, Chi-Man Pun]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020179?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:14 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:02 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[RainbowArena：桌面游戏中强化学习和大型语言模型的多智能体工具包]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020842?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Yingzhuo Liu, Shuodi Liu, Hongsong Tang, Yubing Ma, Zikang Li, Junge Zhang, Liuyu Xiang, Zhaofeng He]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020842?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FMDyG：频域驱动的多尺度连续时间动态图表示学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020830?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：郭耀、赵玉红]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020830?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:12 GMT</pubDate>
+      <title><![CDATA[具有自适应标记选择和特征增强的轻量级图像超分辨率网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020933?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：黄德天、林明欣、甘新伟、戴銮元、曾焕强]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020933?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:02 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[从物理指导到渐进蒸馏：脑 MRI 超分辨率的双级扩散框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020258?dgcid=rss_sd_all</link>
       <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：zhe wang, yuhua ru, adine chetouan, lippian, public chetouan, lippian, public chetouan, lippian, public chetouan, lippian, fang chetouan,利比安，方切图安，利比安，方切图安，利比安，方切图安。 Dierer Hans、Rachid Jennane、Mohamed Jaraya、永新中心]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020258?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:11 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:01 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过扰动图对比学习和 SpectralNet 增强的联合异构图神经网络用于隐私保护推荐]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020684?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：吴广利、石洁友、张静]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020684?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:09 GMT</pubDate>
+      <title><![CDATA[FMDyG：频域驱动的多尺度连续时间动态图表示学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020830?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：郭耀、赵玉红]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020830?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RainbowArena：桌面游戏中强化学习和大型语言模型的多智能体工具包]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020842?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Yingzhuo Liu, Shuodi Liu, Hongsong Tang, Yubing Ma, Zikang Li, Junge Zhang, Liuyu Xiang, Zhaofeng He]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020842?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:01 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[迈向认知驱动的 3D 物体检测：基于 LiDAR 的框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125020891?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: 30 January 2026Source: Knowledge-Based Systems, Volume 333Author(s): Yewei Shi, Baicang Guo, Lisheng Jin, Xiao Yang, Hongyu Zhang, Xingchen Liu, Menglin Li]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020891?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:07 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过扰动图对比学习和 SpectralNet 增强的联合异构图神经网络用于隐私保护推荐]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020684?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026 年 1 月 30 日来源：知识基础系统，第 333 卷作者：吴广利、石洁友、张静]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020684?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:42:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于长尾轨迹生成的受控一致扩散网络]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125021252?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：赵向模、李超、刘占文、杨南、于荣杰、丁乃看]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125021252?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:06 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:41:59 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[哪个域最适合？用于早期喉癌诊断的两步异质迁移学习的域相似性测量]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020945?dgcid=rss_sd_all</link>
+      <description><![CDATA[PB8]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020945?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:41:58 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[无线传感器网络中安全数据传输的最优树聚类节能算法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0950705125021513?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2026年1月30日来源：知识基础系统，第333卷作者：张朝晖、李静、朱凌]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125021513?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:05 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[马尔可夫模型对人类心理搜索算法的收敛性分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125021112?dgcid=rss_sd_all</link>
+      <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Seyed Jalaleddin Mouspour-Komleh、Gerald Scheafriend、Gerald Scheafriend、Gerald Scheafriend、Gerald Schea、geral]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125021112?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[动态工业系统中稳健的概念漂移处理：多目标优化方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125020799?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Asier Diaz Iglesias、Antonio Nappa、Carmine Delle Femine、Piero Rivera、Jorge Poyatos、Guillermo Gomez、Efrén Honrubia、Jan L. Bruse]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125020799?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:41:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过语义句法图平衡和动态图像选择增强基于多模态方面的情感分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095070512502146X?dgcid=rss_sd_all</link>
+      <description><![CDATA[p&gt;发布日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：Juan Yang、Wanli Zou、xu du、Jun Shen]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502146X?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CausalMedLM：用于高精度疾病预测的因果推理增强法学硕士]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125021562?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 1 月 30 日来源： 基于知识的系统，第 333 卷作者：huaiyuan zhao、jinlai Huang、zhuo chan&lt;/p.]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125021562?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 13 Dec 2025 03:41:46 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[动态多目标因果贝叶斯优化：干预约束下复杂系统的自适应学习]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S095070512502009X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年1月30日来源：知识基础系统，第333卷作者：陈世琨]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502009X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 12 Dec 2025 03:56:03 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 03:41:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
