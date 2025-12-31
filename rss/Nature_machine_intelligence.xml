@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence 将发表有关机器学习、机器人和人工智能等广泛主题的高质量原创研究和评论。该杂志还将探讨和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，有无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话，包括评论、新闻特写、新闻和新闻。查看文章和通讯。</description>
-    <lastBuildDate>Fri, 19 Dec 2025 03:52:54 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[用于液体活检应用的多模式无细胞 RNA 语言模型]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01148-x</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 10 日； doi:10.1038/s42256-025-01148-xExai-1是一种无细胞RNA基础模型，它集成了序列、结构和表达特征，通过对噪声数据进行去噪、扩充有限数据集和提高液体活检诊断的普遍性来推进液体活检诊断癌症检测模型。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01148-x</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:52 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 03:51:04 GMT</lastBuildDate>
     <item>
       <title><![CDATA[使用 GerNA-Bind 破译 RNA-配体结合特异性]]></title>
       <link>https://www.nature.com/articles/s42256-025-01154-z</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 12 日； doi:10.1038/s42256-025-01154-z夏等人。介绍 GerNA-Bind，一个几何深度学习框架，旨在通过整合多态 RNA-配体相互作用来预测 RNA-配体结合特异性。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01154-z</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:51 GMT</pubDate>
+      <pubDate>Wed, 31 Dec 2025 03:51:01 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[法学硕士在学术写作中的使用带来了出处问题]]></title>
       <link>https://www.nature.com/articles/s42256-025-01159-8</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 12 日； doi:10.1038/s42256-025-01159-8LLM在学术写作中的使用带来了出处问题]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01159-8</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:48 GMT</pubDate>
+      <pubDate>Wed, 31 Dec 2025 03:50:55 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[网络感知自我监督学习能够对神经元活动动态的遗传修饰因子进行高内容表型筛选]]></title>
+      <title><![CDATA[网络感知的自我监督学习能够对神经元活动动力学的遗传修饰因子进行高内容表型筛选]]></title>
       <link>https://www.nature.com/articles/s42256-025-01156-x</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 17 日； doi:10.1038/s42256-025-01156-xGrosjean 等人。提出一种网络感知、自我监督的学习方法来筛选神经元活动动态。他们证明了它在一系列神经干预措施中的适用性。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01156-x</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:46 GMT</pubDate>
+      <pubDate>Wed, 31 Dec 2025 03:50:53 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[使用尖峰网络求解有限元方法]]></title>
       <link>https://www.nature.com/articles/s42256-025-01158-9</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 17 日； doi:10.1038/s42256-025-01158-9类脑计算可以通过降低能源成本并通过神经动力学重新构建数值模拟来增强有限元方法（科学建模的基石）。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01158-9</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:44 GMT</pubDate>
+      <pubDate>Wed, 31 Dec 2025 03:50:51 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[多模态分布外个体不确定性量化增强了多药理学的结合亲和力预测]]></title>
       <link>https://www.nature.com/articles/s42256-025-01151-2</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 18 日； doi:10.1038/s42256-025-01151-2Badkul 等人。开发 eMOSAIC，这是一种通过准确预测各种化合物与多种蛋白质的相互作用机制来改进药物发现的方法。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01151-2</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:43 GMT</pubDate>
+      <pubDate>Wed, 31 Dec 2025 03:50:50 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于评估和塑造大型语言模型中的人格特质的心理测量框架]]></title>
       <link>https://www.nature.com/articles/s42256-025-01115-6</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 18 日； doi:10.1038/s42256-025-01115-6Serapio-García、Safdari 及其同事开发了一种基于心理测试的方法，用于测量和验证法学硕士的人格特质。经过指令调整的大型模型可提供可靠的性格测量结果，并且可以在下游任务中模仿特定的性格特征。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01115-6</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:41 GMT</pubDate>
+      <pubDate>Wed, 31 Dec 2025 03:50:47 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[使用神经微分方程学习细胞动力学]]></title>
       <link>https://www.nature.com/articles/s42256-025-01150-3</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 18 日； doi:10.1038/s42256-025-01150-3Vinyard 等人。提出了一种使用神经随机微分方程来模拟细胞动力学的生成方法，该方程可以学习状态相关的漂移和扩散，优于现有方法并能够对发育和疾病进行扰动研究。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01150-3</guid>
-      <pubDate>Fri, 19 Dec 2025 03:52:38 GMT</pubDate>
+      <pubDate>Wed, 31 Dec 2025 03:50:45 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用统一扩散变压器生成多功能心血管信号]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01147-y</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 29 日； doi:10.1038/s42256-025-01147-yUniCardio 是用于生成多功能多模态心血管信号的统一框架，可实现强大的信号恢复和跨模态转换，以检测异常情况并估计实时健康监测中的生命体征。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01147-y</guid>
+      <pubDate>Wed, 31 Dec 2025 03:50:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
