@@ -1,219 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect出版物：高级工程信息学</title>
+    <title>ScienceDirect 出版物：高级工程信息学</title>
     <link>https://www.sciencedirect.com/journal/advanced-engineering-informatics</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Wed, 14 Jan 2026 04:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:02:29 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[TFD Trans:用于机械故障诊断的时频分级分解变压器]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011966?dgcid=rss_sd_all</link>
-      <description><![CDATA[滚动轴承是旋转机械中的关键部件，其健康状况直接影响工业设备的安全性和稳定性。为了提高在强噪声和复杂运行条件下的故障识别能力，本文提出了一种用于滚动轴承鲁棒故障诊断的时频分解变换器（TFD-Trans）。TFD-Trans将小波变换和傅里叶变换集成在信号处理知情的深度架构中。小波驱动的频率分解模块将振动信号分层划分为多个子带，实现了细粒度多尺度特征提取。然后，傅里叶驱动的自相关编码模块在频域中对全局周期依赖性进行建模，并增强故障敏感表示。在两个真实世界的滚动轴承数据集上进行的广泛实验表明，TFD-Trans在多种操作和信噪比条件下始终比现有的主流方法具有更高的精度和更强的噪声鲁棒性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011966?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:17 GMT</pubDate>
+      <title><![CDATA[迭代修改变分模式提取（IMVME）：一种用于航空发动机故障诊断的抗噪声瞬态特征非线性提取方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011772?dgcid=rss_sd_all</link>
+      <description><![CDATA[信息工程工程工程工程工程工程工程工程工程。陈]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011772?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:28 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[评估建筑中的跌倒风险：被动背部支撑外骨骼在滑倒和绊倒扰动下的影响]]></title>
+      <title><![CDATA[江海联运集装箱码头区块分配与堆场起重机调配联合优化的多智能体强化学习方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011644?dgcid=rss_sd_all</link>
+      <description><![CDATA[&lt;发布：Qui/p&gt;]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011644?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用知识驱动地面控制的动态群调整自适应神经模糊推理系统智能预测地下煤矿隧道变形]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011802?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，A 部分作者：Satar Mahdevari]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011802?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Engineformer：用于预测航空发动机性能和退化的数字孪生模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011668?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：202年4月来源：《高等工程信息学》，第71卷，a部分作者（S）：夏大胜，姚爱阳，肖战，肖战，肖战]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011668?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[针对复杂环境下的主动悬架系统，使用嵌入纹理特征的 ResNet 进行路面分类]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011735?dgcid=rss_sd_all</link>
+      <description><![CDATA[PB8]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011735?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[道路施工工人的行为建模：利用交通工作区的上下文信息改进基于深度学习的轨迹预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S147403462501170X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，A 部分作者：Daniel Bin Lu、Semiha Ergan]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462501170X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[球树结构通知的相空间扭曲：变速条件下动态退化跟踪的鲁棒算法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011814?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源： Advanced Engineering Informatics, Volume 71, Part A作者：Rui Yuan, Hengyu Liu, Yong Lv, Yuejian Chen, Xingkai Yang, Hewenxuan Li, David Chelidze]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011814?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过 Kullback-Leibler 散度约束的未知干预感知神经格兰杰因果发现]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011784?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2026Source: Advanced Engineering Informatics, Volume 71, Part AAuthor(s): Chenze Wang, Tianyi Yin, Han Wang, Xiaohan Zhang, Gaowei Xu, Jingwei Wang, Min Liu]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011784?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于在线铣刀监控的基于故障的无监督健康指标]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011450?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《先进工程信息学》，第71卷，A部分作者：孙毅、游志超、高红利、宋红亮、刘晓红]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011450?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于自动化设计和绘图生产力测量的 BIM-LogNet 集群]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011723?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源： Advanced Engineering Informatics，第 71 卷，A 部分作者：Yije Kim、Ghang Lee、Ingeon Park、Sangyoon Chin]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011723?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种具有因果先验的新型稳健专家混合模型，用于可解释的水质诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011607?dgcid=rss_sd_all</link>
+      <description><![CDATA[很少 2026来源：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011607?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过温度缩放改进联邦学习的本地训练]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011760?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源： Advanced Engineering Informatics，第 71 卷，A 部分作者：Kichang Lee、Pei Zhang、Songkuk Kim、JeongGil Ko]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011760?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于增强时空特征融合框架和多头注意力机制分类器的无人机故障检测方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011425?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2026Source: Advanced Engineering Informatics, Volume 71, Part AAuthor(s): Yixin Zhang, Chao Yang, Wenjie Liu, Tianqi Qie, Weida Wang, Hongcai Li]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011425?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过 EKF 和深度学习融合进行风电场容错有效风速估计]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011991?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，A 部分作者：Seyyede Marzieh Mousavi、Sayyed Majid Esmailifar、Horst Schulte]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011991?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VAD-GHNet：一种变分注意力分解 GH-LSTM 网络，用于信号重建以实现 TBM 性能提前预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011656?dgcid=rss_sd_all</link>
+      <description><![CDATA[&lt;发布：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011656?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Qwen-AEC：用于高性能建筑代码分析的指令调整大型语言模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011619?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年4月来源：《高等工程信息学》，第71卷，A部分作者：陈剑、田金宝、郑婷、惠迎新、周莉]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011619?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[滚珠丝杠状态监测方法回顾]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625010997?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，A 部分作者：Himanshu Gupta、Tauheed Mian、Pradeep Kundu]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625010997?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[数据驱动和基于物理的模型的多智能体协调，用于超高性能混凝土梁的自动化设计]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011905?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高等工程信息学》，第 71 卷，A 部分作者：陈金鑫、包毅]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011905?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[面向认知工业混合现实的大型语言模型：一项调查]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011693?dgcid=rss_sd_all</link>
+      <description><![CDATA[&lt;发布人：郑]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011693?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[提高弹性：工业 5.0 中动态车间调度的系统回顾]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011346?dgcid=rss_sd_all</link>
+      <description><![CDATA[来源： Zhuang]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011346?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[评估施工中的跌倒风险：被动背部支撑外骨骼在滑动和行程扰动期间的影响]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011899?dgcid=rss_sd_all</link>
-      <description><![CDATA[被动背部支撑外骨骼（BSE）已被推荐用于降低与工作相关的肌肉骨骼疾病的发生率，并提高建筑行业的生产力。在行走和搬运重物等施工任务中，与BSE使用相关的跌倒风险（如滑倒和绊倒）的生物力学指标尚未得到充分研究。这项研究旨在评估工人在佩戴疯牛病时携带物品时的这些指标。当参与者在有和没有携带物体的仪器跑步机上行走时，引入了模拟的滑倒和绊倒。创建了三个条件：没有BSE（WOE），BSE“关闭”（EOF）和BSE“开启”（EON）。使用测力板、肌电图和运动捕捉系统测量地面反作用力（GRF）、躯干、臀部和大腿肌肉的激活以及髋关节角度。在两种模式下使用BSE都会显著改变一些GRF、肌肉激活和髋关节角度。当参与者携带物体时，变化更为明显。值得注意的是，EON在滑移扰动后使横向GRF增加了近25%。它还将髋关节内收的峰值角度降低了近52%。此外，髋外展肌激活增加了近15%。这些变化表明反应性反应不太有效。该研究探讨了变化的原因及其实际影响，强调了BSE设计修改、用户培训和建筑工地BSE使用指南的必要性。这些发现有助于建筑利益相关者就疯牛病的采用做出明智的决定，并指导制造商开发更好的疯牛病用于行走和搬运任务。]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源： Advanced Engineering Informatics，第 71 卷，B 部分作者：Masood Khan、JoonOh Seo、Maxwell Fordjour Antwi-Afari、袁州、龚跃]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011899?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:14 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于多智能体深度强化学习的智能混合流水车间大语言模型动态调度]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011875?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着个性化和小批量生产模式的出现，多智能体制造系统（MAMS）因其自组织能力而成为智能车间的研究热点。具有无关并行机的混合流水车间调度问题（HFSP-UPM）由于其异构资源和动态环境，给决策带来了重大挑战。同时，多智能体深度强化学习（MADRL）是解决复杂决策问题的一种流行方法。因此，本文提出了一种预训练的大型语言模型（LLM）授权的MADRL方法，用于HFSP-UPM，该方法考虑了阶段性协调以最小化完工时间。具体来说，首先开发了一种新的MAMS，其中每个处理阶段都被建模为一个代理，以实现高度自治并降低决策维度。然后，提出了一种基于集中式训练和分散执行范式（CTDE）的多智能体协同调度框架，并提出了智能体之间的通信机制来促进协调与协作。通过结构化提示工程，设计了一个LLM授权的状态空间和动作选择，以增强语义理解和策略更新。最后，采用LLM授权的多代理近端策略优化（LLM-MAPPO）来训练调度模型。330个实例的实验结果表明，所提出的方法优于调度规则、遗传编程（GP）规则、几种先进的基于DRL的方法以及基线MAPPO，在大多数情况下性能提高了8%以上。此外，泛化实验表明，该方法具有响应生产场景变化的自调整能力，并提供了一个示例验证来验证该方法和实验平台。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011875?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:12 GMT</pubDate>
+      <title><![CDATA[TFD-Trans：用于机械故障诊断的时频分层分解变压器]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011966?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，b 部分作者：huan wang、zi-hao ren、Juyu qi]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011966?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[TO MambaLDM：多物理信息的Mamba增强潜在扩散用于冷却结构拓扑优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011851?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了实现医用水凝胶支架的高精度3D体外制造，提高3D打印设备中冷却系统的稳定性和温度控制性能至关重要。因此，液体冷却板的通道布局至关重要。传统的拓扑优化可以产生可行的设计，但它通常依赖于重复的有限元分析，导致计算成本高、收敛慢。在这里，我们提出了TO MambaLDM，这是一个多物理场驱动的生成拓扑优化框架，将潜在扩散模型与状态空间架构相结合。与现有的数据驱动和基于扩散或变压器的生成设计方法相比，TO MambaLDM明确地将热流体操作条件纳入生成过程，并增强了长期依赖性建模，以提高物理一致性和连接性。该框架通过用多通道场图和边界矩阵调节潜在空间来捕捉热-流体-结构耦合。Mamba模拟了长距离依赖关系，而扩散则产生了高分辨率、物理一致的设计。可制造性损失促进了信道连接和制造可行性。实验表明，TO MambaLDM实现了IoU=0.93的重建精度，并将温度和压力MSE分别降低到7.4和7.2，优于多个基线模型，温度和压力预测精度分别提高了18.0%和11.1%。迁移学习进一步验证了其在不同入口-出口配置中生成可制造的高性能冷却结构的能力。TO MambaLDM为增材制造、电子冷却和能源系统中的快速冷却结构设计建立了一个统一的、基于物理的范式。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011851?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gumbel稀疏注意力时空网络：交通风险预测框架]]></title>
+      <title><![CDATA[Gumbel 稀疏注意力时空网络：交通风险预测框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034626000029?dgcid=rss_sd_all</link>
-      <description><![CDATA[交通风险预测对城市交通管理至关重要。现有的方法通常依赖于历史交通数据，如不同路段的交通流量和事故记录，使用聚集周围节点信息的图神经网络来预测未来的交通风险。然而，交通事故数据往往表现出稀疏性和不均匀分布，这些挑战在当前的模型设计中很少得到解决。为了解决这些问题，我们提出了一种轻量级的基于Gumbel稀疏注意力的时空网络（GSASTN），该网络在显著降低计算要求的同时实现了准确的交通事故预测。具体来说，GSASTN包括两个组件：用于高效空间聚合的Gumbel稀疏图注意力网络和用于轻量级时间聚合的Gubbel稀疏变换器，两者都利用稀疏表示来优化性能。对纽约市和芝加哥两个真实世界交通事故数据集的实验评估表明，GSATSN实现了卓越的预测精度，RMSE分别提高了0.32和0.44，召回率分别提高了1.27%和0.79%，同时也降低了模型的复杂性。此外，我们还开发了一个在线可视化平台，为交通风险缓解提供了实时交互工具，为提高道路安全提供了实际好处。]]></description>
+      <description><![CDATA[Surgain： Duan]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000029?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:07 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:17 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[专家组——LLMs协作决策方法，以提高FMEA风险评估的可靠性]]></title>
+      <title><![CDATA[TO-MambaLDM：基于多物理场的 Mamba 增强潜扩散，用于冷却结构拓扑优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011851?dgcid=rss_sd_all</link>
+      <description><![CDATA[信息工程 工程 工程 信息与工程]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011851?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于大语言模型的多智能体深度强化学习智能混合流水车间动态调度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011875?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：顾文斌、曹雨尚、李雨欣、李暖东、王雷、唐娜、袁明海、裴凤雀]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011875?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[提高FMEA风险评估可靠性的专家组-法学硕士协同决策方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011978?dgcid=rss_sd_all</link>
-      <description><![CDATA[在智能船舶航行过程中的风险评估中，仅依靠少数领域专家的FMEA评估可能会受到专业知识不完整的限制，并容易受到主观偏见的影响。大型语言模型（LLM）提供跨域综合，但需要控制可靠性并与人类判断保持一致的机制。本文提出了一种用于FMEA风险电子评估的专家组-LLM协作决策，其中涉及角色条件、生成故障模式风险因素评估的快速工程LLM代理和有针对性的缓解建议。然后，一个具有个性化容忍度的多轮共识模型调和了异质意见，以改善专家组与LLM的合作。因此，建议从三个方面对专家组-LLM合作进行可靠性分析：（1）稳健性分析，（2）排名一致性分析，（3）专家评分偏差分析。通过案例研究验证了所提出的模型，然后进行了比较实验和敏感性分析，以进一步评估其有效性和稳健性。]]></description>
+      <description><![CDATA[p&gt;发布日期：202 年 4 月来源：《高级工程信息学》，第 71 卷，b 部分作者：Tantian Gai、Jin Fang、Hamido Fang、 jamido fang、 jamido fang、 jamido fang、 jamido fang。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011978?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:04 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:15 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[铁路港口集装箱装卸时间预测的结构优化深林模型：一种混合整数规划和贝叶斯优化方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000017?dgcid=rss_sd_all</link>
-      <description><![CDATA[国际铁路运输中的集装箱重新装载涉及将集装箱转移到与目的地铁路轨距兼容的列车上。持续时间取决于港口设施、员工熟练程度和清关等因素。准确的预测对于有效的规划和铁路效率至关重要，包括预测火车旅行时间和通知托运客户到达时间。然而，目前的预测方法无法处理波动的非线性容器重新加载时间，并且在森林学习者选择方面过于主观。因此，本文提出了一种新的结构优化深度学习模型，称为智能贝叶斯深林（IBDF）模型，该模型结合了深林和贝叶斯优化方法来处理预测铁路港口集装箱重新装载时间的复杂数据集。在该模型中，首次提出了一种结合整数规划模型和匈牙利算法的组合优化算法，用于识别森林学习者的最佳类型。然后，设计超参数优化技术，以获得每种选定类型的最佳森林学习器数量。基于2017年至2020年中国铁路快运（蓉欧）阿拉山口边境站的集装箱重新装载时间数据，将IBDF模型的性能与十个基准模型进行了系统比较。该模型将MSE、RMSE、MAE和MAPE的值分别平均降低了68.62%、51.90%、67.41%和59.52%。预测结果表明，IBDF模型提供了高质量的预测，可以支持阿拉山口边境站的集装箱重新装载操作，压缩清关时间，提高中国铁路快运列车的质量和速度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000017?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[铝/钢超声辅助电阻点焊逆向设计的信号驱动可解释建模框架]]></title>
+      <title><![CDATA[用于铝/钢超声波辅助电阻点焊逆向设计的信号驱动可解释建模框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011887?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：任保凯、屠浩、沈俊涛、周康]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，b 部分作者：周浩]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011887?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:59 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:14 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于参数图语法演化的钢筋混凝土结构拉压杆模型的引导生成]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011954?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：高级工程信息学，第71卷，B部分作者：Karin Yu，Eleni Chatzi，Walter Kaufmann，Michael A.Kraus]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011954?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:57 GMT</pubDate>
+      <title><![CDATA[用于铁路港口集装箱重装时间预测的结构优化深度森林模型：混合整数规划和贝叶斯优化方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000017?dgcid=rss_sd_all</link>
+      <description><![CDATA[p&gt;发布日期：202 年 4 月来源：《高级工程信息学》，第 71 卷，b 部分作者：JingweiGuo、Yimin Wang、XiareaGuo、yongguo、yongguozhang]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000017?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[物理先验知识引导的RV减速器跨域智能故障诊断方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625012005?dgcid=rss_sd_all</link>
+      <description><![CDATA[&lt;发布人：张新宇、王航、关健]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625012005?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:13 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[未知失效模式下经验知识驱动的剩余使用寿命预测方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S147403462501184X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：陈佳贤、邓淑涵、何国林、陈竹云、李伟华]]></description>
+      <description><![CDATA[发表日期：2026年4月来源：《Advanced Engineering Informatics》，第71卷，B部分作者：陈嘉贤、邓舒涵、何国林、陈朱云、李伟华]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462501184X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:55 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:13 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于物理先验知识的RV减速器跨域智能故障诊断方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625012005?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：薛琳琳、黄玉坤、张万阳、张迎英、罗华耕、张新跃、王刚、关健]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625012005?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:53 GMT</pubDate>
+      <title><![CDATA[利用参数图语法演化引导生成钢筋混凝土结构的支柱拉杆模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011954?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源： Advanced Engineering Informatics，第 71 卷，B 部分作者：Karin Yu、Eleni Chatzi、Walter Kaufmann、Michael A. Kraus]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011954?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:13 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于改进的深度确定性策略梯度的高超音速飞行器模式转换过程中多源发电的能量管理策略]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011863?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：金兴建、郑凤英、张景阳、傅洁成、吕梦萌、陆健、司高]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011863?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大型语言模型支持语义引导的分层游戏，用于智能电池协调]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000042?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：邹云涛、林子辉、张倩琪、刘志春、徐泽玲]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000042?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种改进的基于维度学习的金枪鱼群优化算法，用于全局优化和现实工程应用]]></title>
+      <title><![CDATA[改进的金枪鱼群优化与基于维度学习的狩猎全局优化和实际工程应用]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011917?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：高级工程信息学，第71卷，B部分作者：EdaÖzkul]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，B 部分作者：Eda Özkul]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011917?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:46 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:12 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[质量驱动的无人压实系统，对现有压路机进行无创改造]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011528?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：李家乐、李伟涛、张建民、马国伟、王雪飞]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011528?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:43 GMT</pubDate>
+      <title><![CDATA[大型语言模型支持语义引导的分层游戏，以实现智能电池协调]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000042?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：邹云涛、林子慧、张千奇、刘志春、徐泽岭]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000042?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:12 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[从实验室到现场：爆破破碎分析的法线图辅助多模态实例分割]]></title>
+      <title><![CDATA[基于改进深度确定性策略梯度的高超声速飞行器模式转换过程中多源发电能量管理策略]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011863?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2026Source: Advanced Engineering Informatics, Volume 71, Part BAuthor(s): Xingjian Jin, Fengying Zheng, Jingyang Zhang, Jiecheng Fu, Mengmeng Lv, Jian Lu, Si Gao]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011863?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从实验室到现场：用于爆破碎片分析的法线贴图辅助多模态实例分割]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S147403462600011X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：王玉林、王昕、汤玉迪、徐戴、董金明、司光耀]]></description>
+      <description><![CDATA[出版日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：王玉林、王欣、唐玉迪、戴旭、董金明、司光耀]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462600011X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:41 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:11 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过FDTD模拟和可解释的机器学习方法在金属-电介质多层膜中实现可调等离子体吸收]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000030?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：高级工程信息学，第71卷，B部分作者：Emmanuel A.Bamidele]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000030?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:39 GMT</pubDate>
+      <title><![CDATA[质量驱动的无人压实系统，对现有压路机进行非侵入式改造]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011528?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026 年 4 月来源：《Advanced Engineering Informatics》，第 71 卷，B 部分作者：Jiale Li、Weitao Li、Jianmin 张、Guowei Ma、Xuefei Wang]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011528?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:11 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一种具有未知故障感知能力的地源热泵机组通用域自适应故障诊断方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625012017?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：王守启、高学进、韩华云、高慧慧、齐永生、韩华正、程慧敏]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625012017?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于SPW-SVDD健康指标和时间自关注机制的轴承剩余使用寿命跨工况预测方法]]></title>
+      <title><![CDATA[基于SPW-SVDD健康指标和时间自注意力机制的跨工况轴承剩余使用寿命预测方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034626000054?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：赵永兴、塔云天、毕然、汤Bo、卢正杰、严义红、谢景松、郭志斌]]></description>
+      <description><![CDATA[Publication date: April 2026Source: Advanced Engineering Informatics, Volume 71, Part BAuthor(s): Zhao Yongxing, Ta Yuntian, Bi Ran, Tang Bo, Lu Zhengjie, Yan Yihong, Xie Jingsong, Guo Zhibin]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000054?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:35 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:10 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[TSDR-SFE:基于两阶段分解重建和时空特征提取的大坝裂缝宽度预测模型]]></title>
+      <title><![CDATA[具有未知故障感知能力的地源热泵机组通用域自适应故障诊断方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034625012017?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2026Source: Advanced Engineering Informatics, Volume 71, Part BAuthor(s): Shouqi Wang, Xuejin Gao, Huayun Han, Huihui Gao, Yongsheng Qi, Huazheng Han, Huimin Cheng]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625012017?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过 FDTD 模拟和可解释的机器学习方法实现金属-电介质多层膜中可调谐等离子体吸收]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000030?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，B 部分作者：Emmanuel A. Bamidele]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000030?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TSDR-SFE：基于两阶段分解重构和时空特征提取的大坝裂缝宽度预测模型]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011838?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：方逸祥、顾崇石、李阳涛、王一鸣、陆太琦、沈磊、孙晓、朱明远、周富强、傅四涛、顾浩]]></description>
+      <description><![CDATA[Publication date: April 2026Source: Advanced Engineering Informatics, Volume 71, Part BAuthor(s): Yixiang Fang, Chongshi Gu, Yangtao Li, Yiming Wang, Taiqi Lu, Lei Shen, Xiao Sun, Mingyuan Zhu, Fuqiang Zhou, Sitao Fu, Hao Gu]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011838?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:32 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:09 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过元学习增强工业故障诊断：利用约束条件变分自动编码器进行零样本识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S147403462501198X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：李竺、刘清莲、陈俊辉]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462501198X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CRFPI-Net：用于像素级城市交通风险映射的上下文感知风险特征感知和推理网络]]></title>
+      <title><![CDATA[CRFPI-Net：用于像素级城市交通风险测绘的上下文感知风险特征感知和推理网络]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011929?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：郭文通、徐文竹、杨成成、赵、高Xi、姚文斌、盛进]]></description>
+      <description><![CDATA[p&gt;发布日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，b 部分作者：YesttongGuo、Wenzhu Xijian yang yang、]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011929?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:28 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:08 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[集成分割和视觉语言模型，用于从卫星图像中自动和可解释的建筑物损伤评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000121?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：王勇、崔家伟、翟长海、陶锡贵、李玉浩]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000121?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:25 GMT</pubDate>
+      <title><![CDATA[通过元学习增强工业故障诊断：使用约束条件变分自动编码器进行零样本识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S147403462501198X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 4 月来源： Advanced Engineering Informatics, Volume 71, Part B作者：Li Zhu、Ching-Lien Liu、Junghui Chen]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462501198X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:08 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[SRANet：一种用于智能道路缺陷检测的规模和区域感知注意力网络]]></title>
+      <title><![CDATA[SRANet：用于智能道路缺陷检测的规模和区域感知注意网络]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034626000078?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：严泽义、顾凌佳、李晓峰、蒋涛]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，b 部分作者：Zeyi Yan、Lingjia Gu、Xiaofeng li、Jiang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000078?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:23 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:07 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于异步多智能体的差分进化，用于可变子批次和有限缓冲区的装配混合差异化车间调度]]></title>
+      <title><![CDATA[集成分割和视觉语言模型，通过卫星图像进行自动化和可解释的建筑损坏评估]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000121?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：王勇、崔家伟、翟长海、陶习贵、李宇豪]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000121?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于异步多智能体的差分进化，用于可变子批次和有限缓冲区的装配混合差分流水作业调度]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011590?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：陆宜玲、唐秋华]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源：《高级工程信息学》，第 71 卷，b 部分作者：陆一岭、唐宇华]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011590?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:21 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:05 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[多工况工业机器人状态评估的无偏估计注意神经过程]]></title>
+      <title><![CDATA[用于多工况工业机器人状态评估的无偏估计注意力神经过程]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034626000145?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：张玉成、黄宇航、杨neneneba波、王世龙、王思宝、梁明勇、刘磊]]></description>
+      <description><![CDATA[&lt;发布人：领导雷雷]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000145?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:19 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:02 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[整合情境感知和知识图，以增强制造工艺规划中的知识推荐]]></title>
+      <title><![CDATA[集成上下文感知和知识图，以增强制造过程规划中的知识推荐]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034626000169?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：吴振勇、吴汉清、谭建新、钱瑛、何丽娜、吴]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源： Advanced Engineering Informatics，第 71 卷，B 部分作者：Zhenyong Wu、Hanqing Wu、Jianxin Tan、Ying Qi、Lina He、Mark Goh]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000169?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:17 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:02:00 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于动态可靠性的多机器人制造系统自适应任务调度]]></title>
+      <title><![CDATA[动态可靠性通知多机器人制造系统的自适应任务调度]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034626000273?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：周健、张杭、唐步云、郑连宇、王一伟]]></description>
+      <description><![CDATA[&lt;发布：吃了]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000273?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:15 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:01:59 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于物联网的结构健康监测的边缘到云计算和智能：全面综述]]></title>
+      <title><![CDATA[基于物联网的结构健康监测的边缘到云计算和智能：全面回顾]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034625011930?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：崔帅、付玉光、付昊、沈伟]]></description>
+      <description><![CDATA[发表日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：崔帅文、付玉光、付浩、沉伟]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011930?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:12 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:01:57 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[建筑行业文本挖掘的演变：统计机器学习主导地位和内外延迟LLM采用的LLM驱动分析]]></title>
+      <title><![CDATA[建筑行业文本挖掘的演变：法学硕士驱动的统计机器学习优势和内部-外部延迟法学硕士采用的分析]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1474034626000133?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《高级工程信息学》第71卷B部分作者：李金晶、赵、于海哲、高丽丽、邓晓鹏、黄邦刚]]></description>
+      <description><![CDATA[出版日期：2026 年 4 月来源： Advanced Engineering Informatics，第 71 卷，B 部分作者：Jinjing Li、Xianbo Zhao、Haizhe Yu、Lili Gau、Xiaopeng Deng、Bon-Gang Hwang]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000133?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 04:16:10 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:01:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
