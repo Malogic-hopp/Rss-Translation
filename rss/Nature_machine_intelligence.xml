@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence 将发表有关机器学习、机器人和人工智能等广泛主题的高质量原创研究和评论。该杂志还将探讨和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，有无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话，包括评论、新闻特写、新闻和新闻。查看文章和通讯。</description>
-    <lastBuildDate>Thu, 15 Jan 2026 03:57:32 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[ImmunoStruct 支持多模式深度学习以进行免疫原性预测]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01163-y</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01163-y多模式深度学习模型结合了分子序列、结构和生化特性，以可解释的方式预测免疫原性，为更智能的分子预测和假设生成提供了框架。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01163-y</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:31 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 04:06:26 GMT</lastBuildDate>
     <item>
       <title><![CDATA[评估深度学习在蛋白质-配体对接方面的潜力]]></title>
       <link>https://www.nature.com/articles/s42256-025-01160-1</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01160-1莫尔黑德等人。介绍基准 PoseBench 并评估当前基于人工智能的蛋白质-配体对接和结构预测方法的优点和局限性。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01160-1</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:30 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:06:25 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[具有空间频率动力学的超表面结构发现的电流扩散模型]]></title>
       <link>https://www.nature.com/articles/s42256-025-01162-z</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01162-z人工智能驱动的超表面设计面临挑战，例如外推到未探索的性能体系。 MetaAI 是一种物理感知电流扩散框架，旨在推进超材料发现从插值到外推的发展。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01162-z</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:29 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:06:24 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过解释自监督图转换器学习到的细胞状态和生态位相关性来推断空间单细胞级相互作用]]></title>
       <link>https://www.nature.com/articles/s42256-025-01161-0</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01161-0肖等人。 GITIII 是一种轻量级且可解释的图形转换器，用于推断空间单细胞水平的相互作用并量化空间转录组学中邻近细胞对接收细胞基因表达的影响。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01161-0</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:28 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:06:23 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[利用 scPEFT 进行参数高效微调，利用单细胞大语言模型的强大功能]]></title>
       <link>https://www.nature.com/articles/s42256-025-01170-z</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01170-z何等人。提出了一种针对单细胞语言模型的参数高效微调方法，可提高未见过的疾病、治疗和细胞类型的性能。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01170-z</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:27 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:06:21 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[可重用性报告：使用 AlphaTensor-Quantum 优化通用量子电路中的 T 计数]]></title>
       <link>https://www.nature.com/articles/s42256-025-01166-9</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01166-9测试了 AlphaTensor-Quantum 的可重用性，并扩展了该方法，无需重新训练即可优化广泛的量子电路，实现更大的 T 计数减少，并展示可推广且高效的量子电路优化。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01166-9</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:26 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:06:19 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[学习逆超表面设计的中间物理状态]]></title>
       <link>https://www.nature.com/articles/s42256-025-01167-8</link>
       <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01167-8深度生成模型学习中间表面电流图，而不是直接布局，为可调和堆叠超表面的逆向设计提供了更稳定的途径。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01167-8</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:25 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:06:18 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[对科学实验室安全风险的大型语言模型进行基准测试]]></title>
       <link>https://www.nature.com/articles/s42256-025-01152-1</link>
       <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 14 日； doi:10.1038/s42256-025-01152-1大型语言模型开始用于控制机器人等安全关键任务。周等人。推出 LabSafety Bench，这是一个评估大型语言模型识别危险和评估实验室风险能力的基准。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01152-1</guid>
-      <pubDate>Thu, 15 Jan 2026 03:57:24 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:06:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[联合建模心血管生物标志物]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01172-x</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 21 日； doi:10.1038/s42256-025-01172-x了解心血管动态的复杂性需要多种监测方式，每种方式都有固有的权衡。基于扩散的建模为合成和生成跨模态数据提供了一条有前途的途径。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01172-x</guid>
+      <pubDate>Thu, 22 Jan 2026 04:06:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
