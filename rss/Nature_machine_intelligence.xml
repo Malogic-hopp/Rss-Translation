@@ -4,62 +4,62 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence 将发表有关机器学习、机器人和人工智能等广泛主题的高质量原创研究和评论。该杂志还将探讨和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，有无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话，包括评论、新闻特写、新闻和新闻。查看文章和通讯。</description>
-    <lastBuildDate>Wed, 28 Jan 2026 03:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:25:42 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[可重用性报告：使用 AlphaTensor-Quantum 优化通用量子电路中的 T 计数]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01166-9</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01166-9测试了 AlphaTensor-Quantum 的可重用性，并扩展了该方法，无需重新训练即可优化广泛的量子电路，实现更大的 T 计数减少，并展示可推广且高效的量子电路优化。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01166-9</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用生物信息双分支变压器模拟药物诱导的细胞扰动反应]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01165-w</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 26 日；提出了一种双分支框架，该框架将细胞状态与药物诱导的调节转变分开以预测转录反应。它捕获非线性剂量-时间动态，并擅长推广到不可见的细胞环境。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01165-w</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:38 GMT</pubDate>
+      <title><![CDATA[对科学实验室安全风险的大型语言模型进行基准测试]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01152-1</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 14 日； doi:10.1038/s42256-025-01152-1大型语言模型开始用于控制机器人等安全关键任务。周等人。推出 LabSafety Bench，这是一个评估大型语言模型识别危险和评估实验室风险能力的基准。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01152-1</guid>
+      <pubDate>Thu, 29 Jan 2026 04:25:39 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[联合建模心血管生物标志物]]></title>
       <link>https://www.nature.com/articles/s42256-025-01172-x</link>
       <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 21 日； doi:10.1038/s42256-025-01172-x了解心血管动态的复杂性需要多种监测方式，每种方式都有固有的权衡。基于扩散的建模为合成和生成跨模态数据提供了一条有前途的途径。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01172-x</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:38 GMT</pubDate>
+      <pubDate>Thu, 29 Jan 2026 04:25:36 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[对科学实验室安全风险的大型语言模型进行基准测试]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01152-1</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 14 日； doi:10.1038/s42256-025-01152-1大型语言模型开始用于控制机器人等安全关键任务。周等人。推出 LabSafety Bench，这是一个评估大型语言模型识别危险和评估实验室风险能力的基准。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01152-1</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[学习逆超表面设计的中间物理状态]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01167-8</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2025 年 12 月 31 日； doi:10.1038/s42256-025-01167-8深度生成模型学习中间表面电流图，而不是直接布局，为可调和堆叠超表面的逆向设计提供了更稳定的途径。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01167-8</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多智能体人工智能系统需要透明度]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01183-2</link>
-      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 27 日； doi:10.1038/s42256-026-01183-2代理人工智能 (AI) 框架很流行。然而，考虑到浪费计算资源和人力资源的风险，在科学研究工作流程中实施此类系统需要明确的动机和解释。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01183-2</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:37 GMT</pubDate>
+      <title><![CDATA[使用生物信息双分支变压器模拟药物诱导的细胞扰动反应]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01165-w</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 26 日；提出了一种双分支框架，该框架将细胞状态与药物诱导的调节转变分开以预测转录反应。它捕获非线性剂量-时间动态，并擅长推广到不可见的细胞环境。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01165-w</guid>
+      <pubDate>Thu, 29 Jan 2026 04:25:34 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过引导树搜索提出并解决奥林匹克几何]]></title>
       <link>https://www.nature.com/articles/s42256-025-01164-x</link>
       <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 26 日； doi:10.1038/s42256-025-01164-xTongGeometry 既解决又提出了奥林匹克级别的几何问题。它使用引导树搜索来查找困难但简洁的问题，使高级数学推理变得更容易。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01164-x</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:37 GMT</pubDate>
+      <pubDate>Thu, 29 Jan 2026 04:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多智能体人工智能系统需要透明度]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01183-2</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 27 日； doi:10.1038/s42256-026-01183-2代理人工智能 (AI) 框架很流行。然而，考虑到浪费计算资源和人力资源的风险，在科学研究工作流程中实施此类系统需要明确的动机和解释。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01183-2</guid>
+      <pubDate>Thu, 29 Jan 2026 04:25:30 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[附录：解决数据偏差可提高结合亲和力预测的泛化能力]]></title>
       <link>https://www.nature.com/articles/s42256-025-01174-9</link>
       <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 27 日； doi:10.1038/s42256-025-01174-9附录：解决数据偏差可提高结合亲和力预测的泛化能力]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01174-9</guid>
-      <pubDate>Wed, 28 Jan 2026 03:57:36 GMT</pubDate>
+      <pubDate>Thu, 29 Jan 2026 04:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[液体电解质配方的统一预测和生成解决方案]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01173-w</link>
+      <description><![CDATA[《自然机器智能》，在线发布：2026 年 1 月 28 日； doi:10.1038/s42256-025-01173-w杨等人。引入统一的液体电解质设计框架，将前向预测模型与逆生成方法相结合，其中识别并实验验证了三种生成的高电导率候选物。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01173-w</guid>
+      <pubDate>Thu, 29 Jan 2026 04:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[教学机器混合电解质鸡尾酒]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01181-4</link>
+      <description><![CDATA[Nature Machine Intelligence, Published online: 28 January 2026; doi:10.1038/s42256-026-01181-4混合物在工业配方中无处不在。统一预测和生成机器学习的框架现在为多组分电池电解质的数据驱动设计提供了蓝图。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01181-4</guid>
+      <pubDate>Thu, 29 Jan 2026 04:25:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
